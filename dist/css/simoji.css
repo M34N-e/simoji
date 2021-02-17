@@ -1,0 +1,5026 @@
+.simoji, .simoji-svg {
+  display: inline-block;
+  height: 1.5em;
+  width: 1.5em;
+  margin: 0 .05em 0 .1em;
+  vertical-align: -0.1em;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: 1em 1em; }
+
+.simoji-xs {
+  height: 0.3em;
+  width: 0.3em;
+  margin: 0 0.015em 0 0.03em;
+  vertical-align: -0.03em;
+  background-size: 0.3em 0.3em; }
+
+.simoji-sm {
+  height: 0.6em;
+  width: 0.6em;
+  margin: 0 0.03em 0 0.06em;
+  vertical-align: -0.06em;
+  background-size: 0.6em 0.6em; }
+
+.simoji-md {
+  height: 1em;
+  width: 1em;
+  margin: 0 0.05em 0 0.1em;
+  vertical-align: -0.1em;
+  background-size: 1em 1em; }
+
+.simoji-lg {
+  height: 1.33em;
+  width: 1.33em;
+  margin: 0 0.0665em 0 0.133em;
+  vertical-align: -0.133em;
+  background-size: 1.33em 1.33em; }
+
+.simoji-2x {
+  height: 2em;
+  width: 2em;
+  margin: 0 0.1em 0 0.2em;
+  vertical-align: -0.2em;
+  background-size: 2em 2em; }
+
+.simoji-3x {
+  height: 3em;
+  width: 3em;
+  margin: 0 0.15em 0 0.3em;
+  vertical-align: -0.3em;
+  background-size: 3em 3em; }
+
+.simoji-4x {
+  height: 4em;
+  width: 4em;
+  margin: 0 0.2em 0 0.4em;
+  vertical-align: -0.4em;
+  background-size: 4em 4em; }
+
+.simoji-5x {
+  height: 5em;
+  width: 5em;
+  margin: 0 0.25em 0 0.5em;
+  vertical-align: -0.5em;
+  background-size: 5em 5em; }
+
+.simoji-6x {
+  height: 6em;
+  width: 6em;
+  margin: 0 0.3em 0 0.6em;
+  vertical-align: -0.6em;
+  background-size: 6em 6em; }
+
+.simoji-7x {
+  height: 7em;
+  width: 7em;
+  margin: 0 0.35em 0 0.7em;
+  vertical-align: -0.7em;
+  background-size: 7em 7em; }
+
+.simoji-8x {
+  height: 8em;
+  width: 8em;
+  margin: 0 0.4em 0 0.8em;
+  vertical-align: -0.8em;
+  background-size: 8em 8em; }
+
+.simoji-9x {
+  height: 9em;
+  width: 9em;
+  margin: 0 0.45em 0 0.9em;
+  vertical-align: -0.9em;
+  background-size: 9em 9em; }
+
+.simoji-10x {
+  height: 10em;
+  width: 10em;
+  margin: 0 0.5em 0 1em;
+  vertical-align: -1em;
+  background-size: 10em 10em; }
+
+.simoji--1-thumbsup {
+  background-image: url("../simoji/svg/1f44d.svg"), none; }
+
+.simoji--1-thumbsdown {
+  background-image: url("../simoji/svg/1f44e.svg"), none; }
+
+.simoji-100 {
+  background-image: url("../simoji/svg/1f4af.svg"), none; }
+
+.simoji-1234 {
+  background-image: url("../simoji/svg/1f522.svg"), none; }
+
+.simoji-8ball {
+  background-image: url("../simoji/svg/1f3b1.svg"), none; }
+
+.simoji-a {
+  background-image: url("../simoji/svg/1f170.svg"), none; }
+
+.simoji-ab {
+  background-image: url("../simoji/svg/1f18e.svg"), none; }
+
+.simoji-abacus {
+  background-image: url("../simoji/svg/1f9ee.svg"), none; }
+
+.simoji-abc {
+  background-image: url("../simoji/svg/1f524.svg"), none; }
+
+.simoji-abcd {
+  background-image: url("../simoji/svg/1f521.svg"), none; }
+
+.simoji-accept {
+  background-image: url("../simoji/svg/1f251.svg"), none; }
+
+.simoji-admission-tickets {
+  background-image: url("../simoji/svg/1f39f.svg"), none; }
+
+.simoji-adult {
+  background-image: url("../simoji/svg/1f9d1.svg"), none; }
+
+.simoji-aerial-tramway {
+  background-image: url("../simoji/svg/1f6a1.svg"), none; }
+
+.simoji-airplane {
+  background-image: url("../simoji/svg/2708.svg"), none; }
+
+.simoji-airplane-arriving {
+  background-image: url("../simoji/svg/1f6ec.svg"), none; }
+
+.simoji-airplane-departure {
+  background-image: url("../simoji/svg/1f6eb.svg"), none; }
+
+.simoji-alarm-clock {
+  background-image: url("../simoji/svg/23f0.svg"), none; }
+
+.simoji-alembic {
+  background-image: url("../simoji/svg/2697.svg"), none; }
+
+.simoji-alien {
+  background-image: url("../simoji/svg/1f47d.svg"), none; }
+
+.simoji-ambulance {
+  background-image: url("../simoji/svg/1f691.svg"), none; }
+
+.simoji-amphora {
+  background-image: url("../simoji/svg/1f3fa.svg"), none; }
+
+.simoji-anchor {
+  background-image: url("../simoji/svg/2693.svg"), none; }
+
+.simoji-angel {
+  background-image: url("../simoji/svg/1f47c.svg"), none; }
+
+.simoji-anger {
+  background-image: url("../simoji/svg/1f4a2.svg"), none; }
+
+.simoji-angry {
+  background-image: url("../simoji/svg/1f620.svg"), none; }
+
+.simoji-anguished {
+  background-image: url("../simoji/svg/1f627.svg"), none; }
+
+.simoji-ant {
+  background-image: url("../simoji/svg/1f41c.svg"), none; }
+
+.simoji-apple {
+  background-image: url("../simoji/svg/1f34e.svg"), none; }
+
+.simoji-aquarius {
+  background-image: url("../simoji/svg/2652.svg"), none; }
+
+.simoji-aries {
+  background-image: url("../simoji/svg/2648.svg"), none; }
+
+.simoji-arrow-backward {
+  background-image: url("../simoji/svg/25c0.svg"), none; }
+
+.simoji-arrow-double-down {
+  background-image: url("../simoji/svg/23ec.svg"), none; }
+
+.simoji-arrow-double-up {
+  background-image: url("../simoji/svg/23eb.svg"), none; }
+
+.simoji-arrow-down {
+  background-image: url("../simoji/svg/2b07.svg"), none; }
+
+.simoji-arrow-down-small {
+  background-image: url("../simoji/svg/1f53d.svg"), none; }
+
+.simoji-arrow-forward {
+  background-image: url("../simoji/svg/25b6.svg"), none; }
+
+.simoji-arrow-heading-down {
+  background-image: url("../simoji/svg/2935.svg"), none; }
+
+.simoji-arrow-heading-up {
+  background-image: url("../simoji/svg/2934.svg"), none; }
+
+.simoji-arrow-left {
+  background-image: url("../simoji/svg/2b05.svg"), none; }
+
+.simoji-arrow-lower-left {
+  background-image: url("../simoji/svg/2199.svg"), none; }
+
+.simoji-arrow-lower-right {
+  background-image: url("../simoji/svg/2198.svg"), none; }
+
+.simoji-arrow-right {
+  background-image: url("../simoji/svg/27a1.svg"), none; }
+
+.simoji-arrow-right-hook {
+  background-image: url("../simoji/svg/21aa.svg"), none; }
+
+.simoji-arrow-up {
+  background-image: url("../simoji/svg/2b06.svg"), none; }
+
+.simoji-arrow-up-down {
+  background-image: url("../simoji/svg/2195.svg"), none; }
+
+.simoji-arrow-up-small {
+  background-image: url("../simoji/svg/1f53c.svg"), none; }
+
+.simoji-arrow-upper-left {
+  background-image: url("../simoji/svg/2196.svg"), none; }
+
+.simoji-arrow-upper-right {
+  background-image: url("../simoji/svg/2197.svg"), none; }
+
+.simoji-arrows-clockwise {
+  background-image: url("../simoji/svg/1f503.svg"), none; }
+
+.simoji-arrows-counterclockwise {
+  background-image: url("../simoji/svg/1f504.svg"), none; }
+
+.simoji-art {
+  background-image: url("../simoji/svg/1f3a8.svg"), none; }
+
+.simoji-articulated-lorry {
+  background-image: url("../simoji/svg/1f69b.svg"), none; }
+
+.simoji-astonished {
+  background-image: url("../simoji/svg/1f632.svg"), none; }
+
+.simoji-athletic-shoe {
+  background-image: url("../simoji/svg/1f45f.svg"), none; }
+
+.simoji-atm {
+  background-image: url("../simoji/svg/1f3e7.svg"), none; }
+
+.simoji-atom-symbol {
+  background-image: url("../simoji/svg/269b.svg"), none; }
+
+.simoji-avocado {
+  background-image: url("../simoji/svg/1f951.svg"), none; }
+
+.simoji-b {
+  background-image: url("../simoji/svg/1f171.svg"), none; }
+
+.simoji-baby {
+  background-image: url("../simoji/svg/1f476.svg"), none; }
+
+.simoji-baby-bottle {
+  background-image: url("../simoji/svg/1f37c.svg"), none; }
+
+.simoji-baby-chick {
+  background-image: url("../simoji/svg/1f424.svg"), none; }
+
+.simoji-baby-symbol {
+  background-image: url("../simoji/svg/1f6bc.svg"), none; }
+
+.simoji-back {
+  background-image: url("../simoji/svg/1f519.svg"), none; }
+
+.simoji-bacon {
+  background-image: url("../simoji/svg/1f953.svg"), none; }
+
+.simoji-badger {
+  background-image: url("../simoji/svg/1f9a1.svg"), none; }
+
+.simoji-badminton-racquet-and-shuttlecock {
+  background-image: url("../simoji/svg/1f3f8.svg"), none; }
+
+.simoji-bagel {
+  background-image: url("../simoji/svg/1f96f.svg"), none; }
+
+.simoji-baggage-claim {
+  background-image: url("../simoji/svg/1f6c4.svg"), none; }
+
+.simoji-baguette-bread {
+  background-image: url("../simoji/svg/1f956.svg"), none; }
+
+.simoji-balloon {
+  background-image: url("../simoji/svg/1f388.svg"), none; }
+
+.simoji-ballot-box-with-ballot {
+  background-image: url("../simoji/svg/1f5f3.svg"), none; }
+
+.simoji-ballot-box-with-check {
+  background-image: url("../simoji/svg/2611.svg"), none; }
+
+.simoji-bamboo {
+  background-image: url("../simoji/svg/1f38d.svg"), none; }
+
+.simoji-banana {
+  background-image: url("../simoji/svg/1f34c.svg"), none; }
+
+.simoji-bangbang {
+  background-image: url("../simoji/svg/203c.svg"), none; }
+
+.simoji-bank {
+  background-image: url("../simoji/svg/1f3e6.svg"), none; }
+
+.simoji-bar-chart {
+  background-image: url("../simoji/svg/1f4ca.svg"), none; }
+
+.simoji-barber {
+  background-image: url("../simoji/svg/1f488.svg"), none; }
+
+.simoji-barely-sunny-sun-behind-cloud {
+  background-image: url("../simoji/svg/1f325.svg"), none; }
+
+.simoji-baseball {
+  background-image: url("../simoji/svg/26be.svg"), none; }
+
+.simoji-basket {
+  background-image: url("../simoji/svg/1f9fa.svg"), none; }
+
+.simoji-basketball {
+  background-image: url("../simoji/svg/1f3c0.svg"), none; }
+
+.simoji-bat {
+  background-image: url("../simoji/svg/1f987.svg"), none; }
+
+.simoji-bath {
+  background-image: url("../simoji/svg/1f6c0.svg"), none; }
+
+.simoji-bathtub {
+  background-image: url("../simoji/svg/1f6c1.svg"), none; }
+
+.simoji-battery {
+  background-image: url("../simoji/svg/1f50b.svg"), none; }
+
+.simoji-beach-with-umbrella {
+  background-image: url("../simoji/svg/1f3d6.svg"), none; }
+
+.simoji-bear {
+  background-image: url("../simoji/svg/1f43b.svg"), none; }
+
+.simoji-bearded-person {
+  background-image: url("../simoji/svg/1f9d4.svg"), none; }
+
+.simoji-bed {
+  background-image: url("../simoji/svg/1f6cf.svg"), none; }
+
+.simoji-bee-honeybee {
+  background-image: url("../simoji/svg/1f41d.svg"), none; }
+
+.simoji-beer {
+  background-image: url("../simoji/svg/1f37a.svg"), none; }
+
+.simoji-beers {
+  background-image: url("../simoji/svg/1f37b.svg"), none; }
+
+.simoji-beetle {
+  background-image: url("../simoji/svg/1f41e.svg"), none; }
+
+.simoji-beginner {
+  background-image: url("../simoji/svg/1f530.svg"), none; }
+
+.simoji-bell {
+  background-image: url("../simoji/svg/1f514.svg"), none; }
+
+.simoji-bellhop-bell {
+  background-image: url("../simoji/svg/1f6ce.svg"), none; }
+
+.simoji-bento {
+  background-image: url("../simoji/svg/1f371.svg"), none; }
+
+.simoji-bicyclist {
+  background-image: url("../simoji/svg/1f6b4.svg"), none; }
+
+.simoji-bike {
+  background-image: url("../simoji/svg/1f6b2.svg"), none; }
+
+.simoji-bikini {
+  background-image: url("../simoji/svg/1f459.svg"), none; }
+
+.simoji-billed-cap {
+  background-image: url("../simoji/svg/1f9e2.svg"), none; }
+
+.simoji-biohazard-sign {
+  background-image: url("../simoji/svg/2623.svg"), none; }
+
+.simoji-bird {
+  background-image: url("../simoji/svg/1f426.svg"), none; }
+
+.simoji-birthday {
+  background-image: url("../simoji/svg/1f382.svg"), none; }
+
+.simoji-black-circle {
+  background-image: url("../simoji/svg/26ab.svg"), none; }
+
+.simoji-black-circle-for-record {
+  background-image: url("../simoji/svg/23fa.svg"), none; }
+
+.simoji-black-heart {
+  background-image: url("../simoji/svg/1f5a4.svg"), none; }
+
+.simoji-black-joker {
+  background-image: url("../simoji/svg/1f0cf.svg"), none; }
+
+.simoji-black-large-square {
+  background-image: url("../simoji/svg/2b1b.svg"), none; }
+
+.simoji-black-left-pointing-double-triangle-with-vertical-bar {
+  background-image: url("../simoji/svg/23ee.svg"), none; }
+
+.simoji-black-medium-small-square {
+  background-image: url("../simoji/svg/25fe.svg"), none; }
+
+.simoji-black-medium-square {
+  background-image: url("../simoji/svg/25fc.svg"), none; }
+
+.simoji-black-nib {
+  background-image: url("../simoji/svg/2712.svg"), none; }
+
+.simoji-black-right-pointing-double-triangle-with-vertical-bar {
+  background-image: url("../simoji/svg/23ed.svg"), none; }
+
+.simoji-black-right-pointing-triangle-with-double-vertical-bar {
+  background-image: url("../simoji/svg/23ef.svg"), none; }
+
+.simoji-black-small-square {
+  background-image: url("../simoji/svg/25aa.svg"), none; }
+
+.simoji-black-square-button {
+  background-image: url("../simoji/svg/1f532.svg"), none; }
+
+.simoji-black-square-for-stop {
+  background-image: url("../simoji/svg/23f9.svg"), none; }
+
+.simoji-blond-haired-man {
+  background-image: url("../simoji/svg/1f471-200d-2642-fe0f.svg"), none; }
+
+.simoji-blond-haired-woman {
+  background-image: url("../simoji/svg/1f471-200d-2640-fe0f.svg"), none; }
+
+.simoji-blossom {
+  background-image: url("../simoji/svg/1f33c.svg"), none; }
+
+.simoji-blowfish {
+  background-image: url("../simoji/svg/1f421.svg"), none; }
+
+.simoji-blue-book {
+  background-image: url("../simoji/svg/1f4d8.svg"), none; }
+
+.simoji-blue-car {
+  background-image: url("../simoji/svg/1f699.svg"), none; }
+
+.simoji-blue-heart {
+  background-image: url("../simoji/svg/1f499.svg"), none; }
+
+.simoji-blush {
+  background-image: url("../simoji/svg/1f60a.svg"), none; }
+
+.simoji-boar {
+  background-image: url("../simoji/svg/1f417.svg"), none; }
+
+.simoji-boat-sailboat {
+  background-image: url("../simoji/svg/26f5.svg"), none; }
+
+.simoji-bomb {
+  background-image: url("../simoji/svg/1f4a3.svg"), none; }
+
+.simoji-bone {
+  background-image: url("../simoji/svg/1f9b4.svg"), none; }
+
+.simoji-book-open-book {
+  background-image: url("../simoji/svg/1f4d6.svg"), none; }
+
+.simoji-bookmark {
+  background-image: url("../simoji/svg/1f516.svg"), none; }
+
+.simoji-bookmark-tabs {
+  background-image: url("../simoji/svg/1f4d1.svg"), none; }
+
+.simoji-books {
+  background-image: url("../simoji/svg/1f4da.svg"), none; }
+
+.simoji-boom-collision {
+  background-image: url("../simoji/svg/1f4a5.svg"), none; }
+
+.simoji-boot {
+  background-image: url("../simoji/svg/1f462.svg"), none; }
+
+.simoji-bouquet {
+  background-image: url("../simoji/svg/1f490.svg"), none; }
+
+.simoji-bow {
+  background-image: url("../simoji/svg/1f647.svg"), none; }
+
+.simoji-bow-and-arrow {
+  background-image: url("../simoji/svg/1f3f9.svg"), none; }
+
+.simoji-bowl-with-spoon {
+  background-image: url("../simoji/svg/1f963.svg"), none; }
+
+.simoji-bowling {
+  background-image: url("../simoji/svg/1f3b3.svg"), none; }
+
+.simoji-boxing-glove {
+  background-image: url("../simoji/svg/1f94a.svg"), none; }
+
+.simoji-boy {
+  background-image: url("../simoji/svg/1f466.svg"), none; }
+
+.simoji-brain {
+  background-image: url("../simoji/svg/1f9e0.svg"), none; }
+
+.simoji-bread {
+  background-image: url("../simoji/svg/1f35e.svg"), none; }
+
+.simoji-breast-feeding {
+  background-image: url("../simoji/svg/1f931.svg"), none; }
+
+.simoji-bricks {
+  background-image: url("../simoji/svg/1f9f1.svg"), none; }
+
+.simoji-bride-with-veil {
+  background-image: url("../simoji/svg/1f470.svg"), none; }
+
+.simoji-bridge-at-night {
+  background-image: url("../simoji/svg/1f309.svg"), none; }
+
+.simoji-briefcase {
+  background-image: url("../simoji/svg/1f4bc.svg"), none; }
+
+.simoji-broccoli {
+  background-image: url("../simoji/svg/1f966.svg"), none; }
+
+.simoji-broken-heart {
+  background-image: url("../simoji/svg/1f494.svg"), none; }
+
+.simoji-broom {
+  background-image: url("../simoji/svg/1f9f9.svg"), none; }
+
+.simoji-bug {
+  background-image: url("../simoji/svg/1f41b.svg"), none; }
+
+.simoji-building-construction {
+  background-image: url("../simoji/svg/1f3d7.svg"), none; }
+
+.simoji-bulb {
+  background-image: url("../simoji/svg/1f4a1.svg"), none; }
+
+.simoji-bullettrain-front {
+  background-image: url("../simoji/svg/1f685.svg"), none; }
+
+.simoji-bullettrain-side {
+  background-image: url("../simoji/svg/1f684.svg"), none; }
+
+.simoji-burrito {
+  background-image: url("../simoji/svg/1f32f.svg"), none; }
+
+.simoji-bus {
+  background-image: url("../simoji/svg/1f68c.svg"), none; }
+
+.simoji-busstop {
+  background-image: url("../simoji/svg/1f68f.svg"), none; }
+
+.simoji-bust-in-silhouette {
+  background-image: url("../simoji/svg/1f464.svg"), none; }
+
+.simoji-busts-in-silhouette {
+  background-image: url("../simoji/svg/1f465.svg"), none; }
+
+.simoji-butterfly {
+  background-image: url("../simoji/svg/1f98b.svg"), none; }
+
+.simoji-cactus {
+  background-image: url("../simoji/svg/1f335.svg"), none; }
+
+.simoji-cake {
+  background-image: url("../simoji/svg/1f370.svg"), none; }
+
+.simoji-calendar {
+  background-image: url("../simoji/svg/1f4c6.svg"), none; }
+
+.simoji-call-me-hand {
+  background-image: url("../simoji/svg/1f919.svg"), none; }
+
+.simoji-calling {
+  background-image: url("../simoji/svg/1f4f2.svg"), none; }
+
+.simoji-camel {
+  background-image: url("../simoji/svg/1f42b.svg"), none; }
+
+.simoji-camera {
+  background-image: url("../simoji/svg/1f4f7.svg"), none; }
+
+.simoji-camera-with-flash {
+  background-image: url("../simoji/svg/1f4f8.svg"), none; }
+
+.simoji-camping {
+  background-image: url("../simoji/svg/1f3d5.svg"), none; }
+
+.simoji-cancer {
+  background-image: url("../simoji/svg/264b.svg"), none; }
+
+.simoji-candle {
+  background-image: url("../simoji/svg/1f56f.svg"), none; }
+
+.simoji-candy {
+  background-image: url("../simoji/svg/1f36c.svg"), none; }
+
+.simoji-canned-food {
+  background-image: url("../simoji/svg/1f96b.svg"), none; }
+
+.simoji-canoe {
+  background-image: url("../simoji/svg/1f6f6.svg"), none; }
+
+.simoji-capital-abcd {
+  background-image: url("../simoji/svg/1f520.svg"), none; }
+
+.simoji-capricorn {
+  background-image: url("../simoji/svg/2651.svg"), none; }
+
+.simoji-car-red-car {
+  background-image: url("../simoji/svg/1f697.svg"), none; }
+
+.simoji-card-file-box {
+  background-image: url("../simoji/svg/1f5c3.svg"), none; }
+
+.simoji-card-index {
+  background-image: url("../simoji/svg/1f4c7.svg"), none; }
+
+.simoji-card-index-dividers {
+  background-image: url("../simoji/svg/1f5c2.svg"), none; }
+
+.simoji-carousel-horse {
+  background-image: url("../simoji/svg/1f3a0.svg"), none; }
+
+.simoji-carrot {
+  background-image: url("../simoji/svg/1f955.svg"), none; }
+
+.simoji-cat {
+  background-image: url("../simoji/svg/1f431.svg"), none; }
+
+.simoji-cat2 {
+  background-image: url("../simoji/svg/1f408.svg"), none; }
+
+.simoji-cd {
+  background-image: url("../simoji/svg/1f4bf.svg"), none; }
+
+.simoji-chains {
+  background-image: url("../simoji/svg/26d3.svg"), none; }
+
+.simoji-champagne {
+  background-image: url("../simoji/svg/1f37e.svg"), none; }
+
+.simoji-chart {
+  background-image: url("../simoji/svg/1f4b9.svg"), none; }
+
+.simoji-chart-with-downwards-trend {
+  background-image: url("../simoji/svg/1f4c9.svg"), none; }
+
+.simoji-chart-with-upwards-trend {
+  background-image: url("../simoji/svg/1f4c8.svg"), none; }
+
+.simoji-checkered-flag {
+  background-image: url("../simoji/svg/1f3c1.svg"), none; }
+
+.simoji-cheese-wedge {
+  background-image: url("../simoji/svg/1f9c0.svg"), none; }
+
+.simoji-cherries {
+  background-image: url("../simoji/svg/1f352.svg"), none; }
+
+.simoji-cherry-blossom {
+  background-image: url("../simoji/svg/1f338.svg"), none; }
+
+.simoji-chess-pawn {
+  background-image: url("../simoji/svg/265f.svg"), none; }
+
+.simoji-chestnut {
+  background-image: url("../simoji/svg/1f330.svg"), none; }
+
+.simoji-chicken {
+  background-image: url("../simoji/svg/1f414.svg"), none; }
+
+.simoji-child {
+  background-image: url("../simoji/svg/1f9d2.svg"), none; }
+
+.simoji-children-crossing {
+  background-image: url("../simoji/svg/1f6b8.svg"), none; }
+
+.simoji-chipmunk {
+  background-image: url("../simoji/svg/1f43f.svg"), none; }
+
+.simoji-chocolate-bar {
+  background-image: url("../simoji/svg/1f36b.svg"), none; }
+
+.simoji-chopsticks {
+  background-image: url("../simoji/svg/1f962.svg"), none; }
+
+.simoji-christmas-tree {
+  background-image: url("../simoji/svg/1f384.svg"), none; }
+
+.simoji-church {
+  background-image: url("../simoji/svg/26ea.svg"), none; }
+
+.simoji-cinema {
+  background-image: url("../simoji/svg/1f3a6.svg"), none; }
+
+.simoji-circus-tent {
+  background-image: url("../simoji/svg/1f3aa.svg"), none; }
+
+.simoji-city-sunrise {
+  background-image: url("../simoji/svg/1f307.svg"), none; }
+
+.simoji-city-sunset {
+  background-image: url("../simoji/svg/1f306.svg"), none; }
+
+.simoji-cityscape {
+  background-image: url("../simoji/svg/1f3d9.svg"), none; }
+
+.simoji-cl {
+  background-image: url("../simoji/svg/1f191.svg"), none; }
+
+.simoji-clap {
+  background-image: url("../simoji/svg/1f44f.svg"), none; }
+
+.simoji-clapper {
+  background-image: url("../simoji/svg/1f3ac.svg"), none; }
+
+.simoji-classical-building {
+  background-image: url("../simoji/svg/1f3db.svg"), none; }
+
+.simoji-clinking-glasses {
+  background-image: url("../simoji/svg/1f942.svg"), none; }
+
+.simoji-clipboard {
+  background-image: url("../simoji/svg/1f4cb.svg"), none; }
+
+.simoji-clock1 {
+  background-image: url("../simoji/svg/1f550.svg"), none; }
+
+.simoji-clock10 {
+  background-image: url("../simoji/svg/1f559.svg"), none; }
+
+.simoji-clock1030 {
+  background-image: url("../simoji/svg/1f565.svg"), none; }
+
+.simoji-clock11 {
+  background-image: url("../simoji/svg/1f55a.svg"), none; }
+
+.simoji-clock1130 {
+  background-image: url("../simoji/svg/1f566.svg"), none; }
+
+.simoji-clock12 {
+  background-image: url("../simoji/svg/1f55b.svg"), none; }
+
+.simoji-clock1230 {
+  background-image: url("../simoji/svg/1f567.svg"), none; }
+
+.simoji-clock130 {
+  background-image: url("../simoji/svg/1f55c.svg"), none; }
+
+.simoji-clock2 {
+  background-image: url("../simoji/svg/1f551.svg"), none; }
+
+.simoji-clock230 {
+  background-image: url("../simoji/svg/1f55d.svg"), none; }
+
+.simoji-clock3 {
+  background-image: url("../simoji/svg/1f552.svg"), none; }
+
+.simoji-clock330 {
+  background-image: url("../simoji/svg/1f55e.svg"), none; }
+
+.simoji-clock4 {
+  background-image: url("../simoji/svg/1f553.svg"), none; }
+
+.simoji-clock430 {
+  background-image: url("../simoji/svg/1f55f.svg"), none; }
+
+.simoji-clock5 {
+  background-image: url("../simoji/svg/1f554.svg"), none; }
+
+.simoji-clock530 {
+  background-image: url("../simoji/svg/1f560.svg"), none; }
+
+.simoji-clock6 {
+  background-image: url("../simoji/svg/1f555.svg"), none; }
+
+.simoji-clock630 {
+  background-image: url("../simoji/svg/1f561.svg"), none; }
+
+.simoji-clock7 {
+  background-image: url("../simoji/svg/1f556.svg"), none; }
+
+.simoji-clock730 {
+  background-image: url("../simoji/svg/1f562.svg"), none; }
+
+.simoji-clock8 {
+  background-image: url("../simoji/svg/1f557.svg"), none; }
+
+.simoji-clock830 {
+  background-image: url("../simoji/svg/1f563.svg"), none; }
+
+.simoji-clock9 {
+  background-image: url("../simoji/svg/1f558.svg"), none; }
+
+.simoji-clock930 {
+  background-image: url("../simoji/svg/1f564.svg"), none; }
+
+.simoji-closed-book {
+  background-image: url("../simoji/svg/1f4d5.svg"), none; }
+
+.simoji-closed-lock-with-key {
+  background-image: url("../simoji/svg/1f510.svg"), none; }
+
+.simoji-closed-umbrella {
+  background-image: url("../simoji/svg/1f302.svg"), none; }
+
+.simoji-cloud {
+  background-image: url("../simoji/svg/2601.svg"), none; }
+
+.simoji-clown-face {
+  background-image: url("../simoji/svg/1f921.svg"), none; }
+
+.simoji-clubs {
+  background-image: url("../simoji/svg/2663.svg"), none; }
+
+.simoji-cn-flag-cn {
+  background-image: url("../simoji/svg/1f1e8-1f1f3.svg"), none; }
+
+.simoji-coat {
+  background-image: url("../simoji/svg/1f9e5.svg"), none; }
+
+.simoji-cocktail {
+  background-image: url("../simoji/svg/1f378.svg"), none; }
+
+.simoji-coconut {
+  background-image: url("../simoji/svg/1f965.svg"), none; }
+
+.simoji-coffee {
+  background-image: url("../simoji/svg/2615.svg"), none; }
+
+.simoji-coffin {
+  background-image: url("../simoji/svg/26b0.svg"), none; }
+
+.simoji-cold-face {
+  background-image: url("../simoji/svg/1f976.svg"), none; }
+
+.simoji-cold-sweat {
+  background-image: url("../simoji/svg/1f630.svg"), none; }
+
+.simoji-comet {
+  background-image: url("../simoji/svg/2604.svg"), none; }
+
+.simoji-compass {
+  background-image: url("../simoji/svg/1f9ed.svg"), none; }
+
+.simoji-compression {
+  background-image: url("../simoji/svg/1f5dc.svg"), none; }
+
+.simoji-computer {
+  background-image: url("../simoji/svg/1f4bb.svg"), none; }
+
+.simoji-confetti-ball {
+  background-image: url("../simoji/svg/1f38a.svg"), none; }
+
+.simoji-confounded {
+  background-image: url("../simoji/svg/1f616.svg"), none; }
+
+.simoji-confused {
+  background-image: url("../simoji/svg/1f615.svg"), none; }
+
+.simoji-congratulations {
+  background-image: url("../simoji/svg/3297.svg"), none; }
+
+.simoji-construction {
+  background-image: url("../simoji/svg/1f6a7.svg"), none; }
+
+.simoji-construction-worker {
+  background-image: url("../simoji/svg/1f477.svg"), none; }
+
+.simoji-control-knobs {
+  background-image: url("../simoji/svg/1f39b.svg"), none; }
+
+.simoji-convenience-store {
+  background-image: url("../simoji/svg/1f3ea.svg"), none; }
+
+.simoji-cookie {
+  background-image: url("../simoji/svg/1f36a.svg"), none; }
+
+.simoji-cool {
+  background-image: url("../simoji/svg/1f192.svg"), none; }
+
+.simoji-cop {
+  background-image: url("../simoji/svg/1f46e.svg"), none; }
+
+.simoji-copyright {
+  background-image: url("../simoji/svg/a9.svg"), none; }
+
+.simoji-corn {
+  background-image: url("../simoji/svg/1f33d.svg"), none; }
+
+.simoji-couch-and-lamp {
+  background-image: url("../simoji/svg/1f6cb.svg"), none; }
+
+.simoji-couple-man-and-woman-holding-hands {
+  background-image: url("../simoji/svg/1f46b.svg"), none; }
+
+.simoji-couple-with-heart {
+  background-image: url("../simoji/svg/1f491.svg"), none; }
+
+.simoji-couplekiss {
+  background-image: url("../simoji/svg/1f48f.svg"), none; }
+
+.simoji-cow {
+  background-image: url("../simoji/svg/1f42e.svg"), none; }
+
+.simoji-cow2 {
+  background-image: url("../simoji/svg/1f404.svg"), none; }
+
+.simoji-crab {
+  background-image: url("../simoji/svg/1f980.svg"), none; }
+
+.simoji-credit-card {
+  background-image: url("../simoji/svg/1f4b3.svg"), none; }
+
+.simoji-crescent-moon {
+  background-image: url("../simoji/svg/1f319.svg"), none; }
+
+.simoji-cricket {
+  background-image: url("../simoji/svg/1f997.svg"), none; }
+
+.simoji-cricket-bat-and-ball {
+  background-image: url("../simoji/svg/1f3cf.svg"), none; }
+
+.simoji-crocodile {
+  background-image: url("../simoji/svg/1f40a.svg"), none; }
+
+.simoji-croissant {
+  background-image: url("../simoji/svg/1f950.svg"), none; }
+
+.simoji-crossed-fingers-hand-with-index-and-middle-fingers-crossed {
+  background-image: url("../simoji/svg/1f91e.svg"), none; }
+
+.simoji-crossed-flags {
+  background-image: url("../simoji/svg/1f38c.svg"), none; }
+
+.simoji-crossed-swords {
+  background-image: url("../simoji/svg/2694.svg"), none; }
+
+.simoji-crown {
+  background-image: url("../simoji/svg/1f451.svg"), none; }
+
+.simoji-cry {
+  background-image: url("../simoji/svg/1f622.svg"), none; }
+
+.simoji-crying-cat-face {
+  background-image: url("../simoji/svg/1f63f.svg"), none; }
+
+.simoji-crystal-ball {
+  background-image: url("../simoji/svg/1f52e.svg"), none; }
+
+.simoji-cucumber {
+  background-image: url("../simoji/svg/1f952.svg"), none; }
+
+.simoji-cup-with-straw {
+  background-image: url("../simoji/svg/1f964.svg"), none; }
+
+.simoji-cupcake {
+  background-image: url("../simoji/svg/1f9c1.svg"), none; }
+
+.simoji-cupid {
+  background-image: url("../simoji/svg/1f498.svg"), none; }
+
+.simoji-curling-stone {
+  background-image: url("../simoji/svg/1f94c.svg"), none; }
+
+.simoji-curly-loop {
+  background-image: url("../simoji/svg/27b0.svg"), none; }
+
+.simoji-currency-exchange {
+  background-image: url("../simoji/svg/1f4b1.svg"), none; }
+
+.simoji-curry {
+  background-image: url("../simoji/svg/1f35b.svg"), none; }
+
+.simoji-custard {
+  background-image: url("../simoji/svg/1f36e.svg"), none; }
+
+.simoji-customs {
+  background-image: url("../simoji/svg/1f6c3.svg"), none; }
+
+.simoji-cut-of-meat {
+  background-image: url("../simoji/svg/1f969.svg"), none; }
+
+.simoji-cyclone {
+  background-image: url("../simoji/svg/1f300.svg"), none; }
+
+.simoji-dagger-knife {
+  background-image: url("../simoji/svg/1f5e1.svg"), none; }
+
+.simoji-dancer {
+  background-image: url("../simoji/svg/1f483.svg"), none; }
+
+.simoji-dancers {
+  background-image: url("../simoji/svg/1f46f.svg"), none; }
+
+.simoji-dango {
+  background-image: url("../simoji/svg/1f361.svg"), none; }
+
+.simoji-dark-sunglasses {
+  background-image: url("../simoji/svg/1f576.svg"), none; }
+
+.simoji-dart {
+  background-image: url("../simoji/svg/1f3af.svg"), none; }
+
+.simoji-dash {
+  background-image: url("../simoji/svg/1f4a8.svg"), none; }
+
+.simoji-date {
+  background-image: url("../simoji/svg/1f4c5.svg"), none; }
+
+.simoji-de-flag-de {
+  background-image: url("../simoji/svg/1f1e9-1f1ea.svg"), none; }
+
+.simoji-deciduous-tree {
+  background-image: url("../simoji/svg/1f333.svg"), none; }
+
+.simoji-deer {
+  background-image: url("../simoji/svg/1f98c.svg"), none; }
+
+.simoji-department-store {
+  background-image: url("../simoji/svg/1f3ec.svg"), none; }
+
+.simoji-derelict-house-building {
+  background-image: url("../simoji/svg/1f3da.svg"), none; }
+
+.simoji-desert {
+  background-image: url("../simoji/svg/1f3dc.svg"), none; }
+
+.simoji-desert-island {
+  background-image: url("../simoji/svg/1f3dd.svg"), none; }
+
+.simoji-desktop-computer {
+  background-image: url("../simoji/svg/1f5a5.svg"), none; }
+
+.simoji-diamond-shape-with-a-dot-inside {
+  background-image: url("../simoji/svg/1f4a0.svg"), none; }
+
+.simoji-diamonds {
+  background-image: url("../simoji/svg/2666.svg"), none; }
+
+.simoji-disappointed {
+  background-image: url("../simoji/svg/1f61e.svg"), none; }
+
+.simoji-disappointed-relieved {
+  background-image: url("../simoji/svg/1f625.svg"), none; }
+
+.simoji-dizzy {
+  background-image: url("../simoji/svg/1f4ab.svg"), none; }
+
+.simoji-dizzy-face {
+  background-image: url("../simoji/svg/1f635.svg"), none; }
+
+.simoji-dna {
+  background-image: url("../simoji/svg/1f9ec.svg"), none; }
+
+.simoji-do-not-litter {
+  background-image: url("../simoji/svg/1f6af.svg"), none; }
+
+.simoji-dog {
+  background-image: url("../simoji/svg/1f436.svg"), none; }
+
+.simoji-dog2 {
+  background-image: url("../simoji/svg/1f415.svg"), none; }
+
+.simoji-dollar {
+  background-image: url("../simoji/svg/1f4b5.svg"), none; }
+
+.simoji-dolls {
+  background-image: url("../simoji/svg/1f38e.svg"), none; }
+
+.simoji-dolphin-flipper {
+  background-image: url("../simoji/svg/1f42c.svg"), none; }
+
+.simoji-door {
+  background-image: url("../simoji/svg/1f6aa.svg"), none; }
+
+.simoji-double-vertical-bar {
+  background-image: url("../simoji/svg/23f8.svg"), none; }
+
+.simoji-doughnut {
+  background-image: url("../simoji/svg/1f369.svg"), none; }
+
+.simoji-dove-of-peace {
+  background-image: url("../simoji/svg/1f54a.svg"), none; }
+
+.simoji-dragon {
+  background-image: url("../simoji/svg/1f409.svg"), none; }
+
+.simoji-dragon-face {
+  background-image: url("../simoji/svg/1f432.svg"), none; }
+
+.simoji-dress {
+  background-image: url("../simoji/svg/1f457.svg"), none; }
+
+.simoji-dromedary-camel {
+  background-image: url("../simoji/svg/1f42a.svg"), none; }
+
+.simoji-drooling-face {
+  background-image: url("../simoji/svg/1f924.svg"), none; }
+
+.simoji-droplet {
+  background-image: url("../simoji/svg/1f4a7.svg"), none; }
+
+.simoji-drum-with-drumsticks {
+  background-image: url("../simoji/svg/1f941.svg"), none; }
+
+.simoji-duck {
+  background-image: url("../simoji/svg/1f986.svg"), none; }
+
+.simoji-dumpling {
+  background-image: url("../simoji/svg/1f95f.svg"), none; }
+
+.simoji-dvd {
+  background-image: url("../simoji/svg/1f4c0.svg"), none; }
+
+.simoji-e-mail {
+  background-image: url("../simoji/svg/1f4e7.svg"), none; }
+
+.simoji-eagle {
+  background-image: url("../simoji/svg/1f985.svg"), none; }
+
+.simoji-ear {
+  background-image: url("../simoji/svg/1f442.svg"), none; }
+
+.simoji-ear-of-rice {
+  background-image: url("../simoji/svg/1f33e.svg"), none; }
+
+.simoji-earth-africa {
+  background-image: url("../simoji/svg/1f30d.svg"), none; }
+
+.simoji-earth-americas {
+  background-image: url("../simoji/svg/1f30e.svg"), none; }
+
+.simoji-earth-asia {
+  background-image: url("../simoji/svg/1f30f.svg"), none; }
+
+.simoji-egg {
+  background-image: url("../simoji/svg/1f95a.svg"), none; }
+
+.simoji-eggplant {
+  background-image: url("../simoji/svg/1f346.svg"), none; }
+
+.simoji-eight {
+  background-image: url("../simoji/svg/38-20e3.svg"), none; }
+
+.simoji-eight-pointed-black-star {
+  background-image: url("../simoji/svg/2734.svg"), none; }
+
+.simoji-eight-spoked-asterisk {
+  background-image: url("../simoji/svg/2733.svg"), none; }
+
+.simoji-eject {
+  background-image: url("../simoji/svg/23cf.svg"), none; }
+
+.simoji-electric-plug {
+  background-image: url("../simoji/svg/1f50c.svg"), none; }
+
+.simoji-elephant {
+  background-image: url("../simoji/svg/1f418.svg"), none; }
+
+.simoji-elf {
+  background-image: url("../simoji/svg/1f9dd.svg"), none; }
+
+.simoji-email-envelope {
+  background-image: url("../simoji/svg/2709.svg"), none; }
+
+.simoji-end {
+  background-image: url("../simoji/svg/1f51a.svg"), none; }
+
+.simoji-envelope-with-arrow {
+  background-image: url("../simoji/svg/1f4e9.svg"), none; }
+
+.simoji-es-flag-es {
+  background-image: url("../simoji/svg/1f1ea-1f1f8.svg"), none; }
+
+.simoji-euro {
+  background-image: url("../simoji/svg/1f4b6.svg"), none; }
+
+.simoji-european-castle {
+  background-image: url("../simoji/svg/1f3f0.svg"), none; }
+
+.simoji-european-post-office {
+  background-image: url("../simoji/svg/1f3e4.svg"), none; }
+
+.simoji-evergreen-tree {
+  background-image: url("../simoji/svg/1f332.svg"), none; }
+
+.simoji-exclamation-heavy-exclamation-mark {
+  background-image: url("../simoji/svg/2757.svg"), none; }
+
+.simoji-exploding-head-shocked-face-with-exploding-head {
+  background-image: url("../simoji/svg/1f92f.svg"), none; }
+
+.simoji-expressionless {
+  background-image: url("../simoji/svg/1f611.svg"), none; }
+
+.simoji-eye {
+  background-image: url("../simoji/svg/1f441.svg"), none; }
+
+.simoji-eyeglasses {
+  background-image: url("../simoji/svg/1f453.svg"), none; }
+
+.simoji-eyes {
+  background-image: url("../simoji/svg/1f440.svg"), none; }
+
+.simoji-face-palm {
+  background-image: url("../simoji/svg/1f926.svg"), none; }
+
+.simoji-face-vomiting-face-with-open-mouth-vomiting {
+  background-image: url("../simoji/svg/1f92e.svg"), none; }
+
+.simoji-face-with-cowboy-hat {
+  background-image: url("../simoji/svg/1f920.svg"), none; }
+
+.simoji-face-with-hand-over-mouth-smiling-face-with-smiling-eyes-and-hand-covering-mouth {
+  background-image: url("../simoji/svg/1f92d.svg"), none; }
+
+.simoji-face-with-head-bandage {
+  background-image: url("../simoji/svg/1f915.svg"), none; }
+
+.simoji-face-with-monocle {
+  background-image: url("../simoji/svg/1f9d0.svg"), none; }
+
+.simoji-face-with-raised-eyebrow-face-with-one-eyebrow-raised {
+  background-image: url("../simoji/svg/1f928.svg"), none; }
+
+.simoji-face-with-rolling-eyes {
+  background-image: url("../simoji/svg/1f644.svg"), none; }
+
+.simoji-face-with-symbols-on-mouth-serious-face-with-symbols-covering-mouth {
+  background-image: url("../simoji/svg/1f92c.svg"), none; }
+
+.simoji-face-with-thermometer {
+  background-image: url("../simoji/svg/1f912.svg"), none; }
+
+.simoji-facepunch-punch {
+  background-image: url("../simoji/svg/1f44a.svg"), none; }
+
+.simoji-factory {
+  background-image: url("../simoji/svg/1f3ed.svg"), none; }
+
+.simoji-fairy {
+  background-image: url("../simoji/svg/1f9da.svg"), none; }
+
+.simoji-fallen-leaf {
+  background-image: url("../simoji/svg/1f342.svg"), none; }
+
+.simoji-family-man-woman-boy {
+  background-image: url("../simoji/svg/1f46a.svg"), none; }
+
+.simoji-fast-forward {
+  background-image: url("../simoji/svg/23e9.svg"), none; }
+
+.simoji-fax {
+  background-image: url("../simoji/svg/1f4e0.svg"), none; }
+
+.simoji-fearful {
+  background-image: url("../simoji/svg/1f628.svg"), none; }
+
+.simoji-feet-paw-prints {
+  background-image: url("../simoji/svg/1f43e.svg"), none; }
+
+.simoji-female-artist {
+  background-image: url("../simoji/svg/1f469-200d-1f3a8.svg"), none; }
+
+.simoji-female-astronaut {
+  background-image: url("../simoji/svg/1f469-200d-1f680.svg"), none; }
+
+.simoji-female-construction-worker {
+  background-image: url("../simoji/svg/1f477-200d-2640-fe0f.svg"), none; }
+
+.simoji-female-cook {
+  background-image: url("../simoji/svg/1f469-200d-1f373.svg"), none; }
+
+.simoji-female-detective {
+  background-image: url("../simoji/svg/1f575-fe0f-200d-2640-fe0f.svg"), none; }
+
+.simoji-female-doctor {
+  background-image: url("../simoji/svg/1f469-200d-2695-fe0f.svg"), none; }
+
+.simoji-female-factory-worker {
+  background-image: url("../simoji/svg/1f469-200d-1f3ed.svg"), none; }
+
+.simoji-female-farmer {
+  background-image: url("../simoji/svg/1f469-200d-1f33e.svg"), none; }
+
+.simoji-female-firefighter {
+  background-image: url("../simoji/svg/1f469-200d-1f692.svg"), none; }
+
+.simoji-female-guard {
+  background-image: url("../simoji/svg/1f482-200d-2640-fe0f.svg"), none; }
+
+.simoji-female-judge {
+  background-image: url("../simoji/svg/1f469-200d-2696-fe0f.svg"), none; }
+
+.simoji-female-mechanic {
+  background-image: url("../simoji/svg/1f469-200d-1f527.svg"), none; }
+
+.simoji-female-office-worker {
+  background-image: url("../simoji/svg/1f469-200d-1f4bc.svg"), none; }
+
+.simoji-female-pilot {
+  background-image: url("../simoji/svg/1f469-200d-2708-fe0f.svg"), none; }
+
+.simoji-female-police-officer {
+  background-image: url("../simoji/svg/1f46e-200d-2640-fe0f.svg"), none; }
+
+.simoji-female-scientist {
+  background-image: url("../simoji/svg/1f469-200d-1f52c.svg"), none; }
+
+.simoji-female-singer {
+  background-image: url("../simoji/svg/1f469-200d-1f3a4.svg"), none; }
+
+.simoji-female-student {
+  background-image: url("../simoji/svg/1f469-200d-1f393.svg"), none; }
+
+.simoji-female-teacher {
+  background-image: url("../simoji/svg/1f469-200d-1f3eb.svg"), none; }
+
+.simoji-female-technologist {
+  background-image: url("../simoji/svg/1f469-200d-1f4bb.svg"), none; }
+
+.simoji-female-bald {
+  background-image: url("../simoji/svg/1f469-200d-1f9b2.svg"), none; }
+
+.simoji-female-curly-haired {
+  background-image: url("../simoji/svg/1f469-200d-1f9b1.svg"), none; }
+
+.simoji-female-elf {
+  background-image: url("../simoji/svg/1f9dd-200d-2640-fe0f.svg"), none; }
+
+.simoji-female-fairy {
+  background-image: url("../simoji/svg/1f9da-200d-2640-fe0f.svg"), none; }
+
+.simoji-female-genie {
+  background-image: url("../simoji/svg/1f9de-200d-2640-fe0f.svg"), none; }
+
+.simoji-female-mage {
+  background-image: url("../simoji/svg/1f9d9-200d-2640-fe0f.svg"), none; }
+
+.simoji-female-red-haired {
+  background-image: url("../simoji/svg/1f469-200d-1f9b0.svg"), none; }
+
+.simoji-female-sign {
+  background-image: url("../simoji/svg/2640.svg"), none; }
+
+.simoji-female-superhero {
+  background-image: url("../simoji/svg/1f9b8-200d-2640-fe0f.svg"), none; }
+
+.simoji-female-supervillain {
+  background-image: url("../simoji/svg/1f9b9-200d-2640-fe0f.svg"), none; }
+
+.simoji-female-vampire {
+  background-image: url("../simoji/svg/1f9db-200d-2640-fe0f.svg"), none; }
+
+.simoji-female-white-haired {
+  background-image: url("../simoji/svg/1f469-200d-1f9b3.svg"), none; }
+
+.simoji-female-zombie {
+  background-image: url("../simoji/svg/1f9df-200d-2640-fe0f.svg"), none; }
+
+.simoji-fencer {
+  background-image: url("../simoji/svg/1f93a.svg"), none; }
+
+.simoji-ferris-wheel {
+  background-image: url("../simoji/svg/1f3a1.svg"), none; }
+
+.simoji-ferry {
+  background-image: url("../simoji/svg/26f4.svg"), none; }
+
+.simoji-field-hockey-stick-and-ball {
+  background-image: url("../simoji/svg/1f3d1.svg"), none; }
+
+.simoji-file-cabinet {
+  background-image: url("../simoji/svg/1f5c4.svg"), none; }
+
+.simoji-file-folder {
+  background-image: url("../simoji/svg/1f4c1.svg"), none; }
+
+.simoji-film-frames {
+  background-image: url("../simoji/svg/1f39e.svg"), none; }
+
+.simoji-film-projector {
+  background-image: url("../simoji/svg/1f4fd.svg"), none; }
+
+.simoji-fire {
+  background-image: url("../simoji/svg/1f525.svg"), none; }
+
+.simoji-fire-engine {
+  background-image: url("../simoji/svg/1f692.svg"), none; }
+
+.simoji-fire-extinguisher {
+  background-image: url("../simoji/svg/1f9ef.svg"), none; }
+
+.simoji-firecracker {
+  background-image: url("../simoji/svg/1f9e8.svg"), none; }
+
+.simoji-fireworks {
+  background-image: url("../simoji/svg/1f386.svg"), none; }
+
+.simoji-first-place-medal {
+  background-image: url("../simoji/svg/1f947.svg"), none; }
+
+.simoji-first-quarter-moon {
+  background-image: url("../simoji/svg/1f313.svg"), none; }
+
+.simoji-first-quarter-moon-with-face {
+  background-image: url("../simoji/svg/1f31b.svg"), none; }
+
+.simoji-fish {
+  background-image: url("../simoji/svg/1f41f.svg"), none; }
+
+.simoji-fish-cake {
+  background-image: url("../simoji/svg/1f365.svg"), none; }
+
+.simoji-fishing-pole-and-fish {
+  background-image: url("../simoji/svg/1f3a3.svg"), none; }
+
+.simoji-fist {
+  background-image: url("../simoji/svg/270a.svg"), none; }
+
+.simoji-five {
+  background-image: url("../simoji/svg/35-20e3.svg"), none; }
+
+.simoji-flag-ac {
+  background-image: url("../simoji/svg/1f1e6-1f1e8.svg"), none; }
+
+.simoji-flag-ad {
+  background-image: url("../simoji/svg/1f1e6-1f1e9.svg"), none; }
+
+.simoji-flag-ae {
+  background-image: url("../simoji/svg/1f1e6-1f1ea.svg"), none; }
+
+.simoji-flag-af {
+  background-image: url("../simoji/svg/1f1e6-1f1eb.svg"), none; }
+
+.simoji-flag-ag {
+  background-image: url("../simoji/svg/1f1e6-1f1ec.svg"), none; }
+
+.simoji-flag-ai {
+  background-image: url("../simoji/svg/1f1e6-1f1ee.svg"), none; }
+
+.simoji-flag-al {
+  background-image: url("../simoji/svg/1f1e6-1f1f1.svg"), none; }
+
+.simoji-flag-am {
+  background-image: url("../simoji/svg/1f1e6-1f1f2.svg"), none; }
+
+.simoji-flag-ao {
+  background-image: url("../simoji/svg/1f1e6-1f1f4.svg"), none; }
+
+.simoji-flag-aq {
+  background-image: url("../simoji/svg/1f1e6-1f1f6.svg"), none; }
+
+.simoji-flag-ar {
+  background-image: url("../simoji/svg/1f1e6-1f1f7.svg"), none; }
+
+.simoji-flag-as {
+  background-image: url("../simoji/svg/1f1e6-1f1f8.svg"), none; }
+
+.simoji-flag-at {
+  background-image: url("../simoji/svg/1f1e6-1f1f9.svg"), none; }
+
+.simoji-flag-au {
+  background-image: url("../simoji/svg/1f1e6-1f1fa.svg"), none; }
+
+.simoji-flag-aw {
+  background-image: url("../simoji/svg/1f1e6-1f1fc.svg"), none; }
+
+.simoji-flag-ax {
+  background-image: url("../simoji/svg/1f1e6-1f1fd.svg"), none; }
+
+.simoji-flag-az {
+  background-image: url("../simoji/svg/1f1e6-1f1ff.svg"), none; }
+
+.simoji-flag-ba {
+  background-image: url("../simoji/svg/1f1e7-1f1e6.svg"), none; }
+
+.simoji-flag-bb {
+  background-image: url("../simoji/svg/1f1e7-1f1e7.svg"), none; }
+
+.simoji-flag-bd {
+  background-image: url("../simoji/svg/1f1e7-1f1e9.svg"), none; }
+
+.simoji-flag-be {
+  background-image: url("../simoji/svg/1f1e7-1f1ea.svg"), none; }
+
+.simoji-flag-bf {
+  background-image: url("../simoji/svg/1f1e7-1f1eb.svg"), none; }
+
+.simoji-flag-bg {
+  background-image: url("../simoji/svg/1f1e7-1f1ec.svg"), none; }
+
+.simoji-flag-bh {
+  background-image: url("../simoji/svg/1f1e7-1f1ed.svg"), none; }
+
+.simoji-flag-bi {
+  background-image: url("../simoji/svg/1f1e7-1f1ee.svg"), none; }
+
+.simoji-flag-bj {
+  background-image: url("../simoji/svg/1f1e7-1f1ef.svg"), none; }
+
+.simoji-flag-bl {
+  background-image: url("../simoji/svg/1f1e7-1f1f1.svg"), none; }
+
+.simoji-flag-bm {
+  background-image: url("../simoji/svg/1f1e7-1f1f2.svg"), none; }
+
+.simoji-flag-bn {
+  background-image: url("../simoji/svg/1f1e7-1f1f3.svg"), none; }
+
+.simoji-flag-bo {
+  background-image: url("../simoji/svg/1f1e7-1f1f4.svg"), none; }
+
+.simoji-flag-bq {
+  background-image: url("../simoji/svg/1f1e7-1f1f6.svg"), none; }
+
+.simoji-flag-br {
+  background-image: url("../simoji/svg/1f1e7-1f1f7.svg"), none; }
+
+.simoji-flag-bs {
+  background-image: url("../simoji/svg/1f1e7-1f1f8.svg"), none; }
+
+.simoji-flag-bt {
+  background-image: url("../simoji/svg/1f1e7-1f1f9.svg"), none; }
+
+.simoji-flag-bv {
+  background-image: url("../simoji/svg/1f1e7-1f1fb.svg"), none; }
+
+.simoji-flag-bw {
+  background-image: url("../simoji/svg/1f1e7-1f1fc.svg"), none; }
+
+.simoji-flag-by {
+  background-image: url("../simoji/svg/1f1e7-1f1fe.svg"), none; }
+
+.simoji-flag-bz {
+  background-image: url("../simoji/svg/1f1e7-1f1ff.svg"), none; }
+
+.simoji-flag-ca {
+  background-image: url("../simoji/svg/1f1e8-1f1e6.svg"), none; }
+
+.simoji-flag-cc {
+  background-image: url("../simoji/svg/1f1e8-1f1e8.svg"), none; }
+
+.simoji-flag-cd {
+  background-image: url("../simoji/svg/1f1e8-1f1e9.svg"), none; }
+
+.simoji-flag-cf {
+  background-image: url("../simoji/svg/1f1e8-1f1eb.svg"), none; }
+
+.simoji-flag-cg {
+  background-image: url("../simoji/svg/1f1e8-1f1ec.svg"), none; }
+
+.simoji-flag-ch {
+  background-image: url("../simoji/svg/1f1e8-1f1ed.svg"), none; }
+
+.simoji-flag-ci {
+  background-image: url("../simoji/svg/1f1e8-1f1ee.svg"), none; }
+
+.simoji-flag-ck {
+  background-image: url("../simoji/svg/1f1e8-1f1f0.svg"), none; }
+
+.simoji-flag-cl {
+  background-image: url("../simoji/svg/1f1e8-1f1f1.svg"), none; }
+
+.simoji-flag-cm {
+  background-image: url("../simoji/svg/1f1e8-1f1f2.svg"), none; }
+
+.simoji-flag-co {
+  background-image: url("../simoji/svg/1f1e8-1f1f4.svg"), none; }
+
+.simoji-flag-cp {
+  background-image: url("../simoji/svg/1f1e8-1f1f5.svg"), none; }
+
+.simoji-flag-cr {
+  background-image: url("../simoji/svg/1f1e8-1f1f7.svg"), none; }
+
+.simoji-flag-cu {
+  background-image: url("../simoji/svg/1f1e8-1f1fa.svg"), none; }
+
+.simoji-flag-cv {
+  background-image: url("../simoji/svg/1f1e8-1f1fb.svg"), none; }
+
+.simoji-flag-cw {
+  background-image: url("../simoji/svg/1f1e8-1f1fc.svg"), none; }
+
+.simoji-flag-cx {
+  background-image: url("../simoji/svg/1f1e8-1f1fd.svg"), none; }
+
+.simoji-flag-cy {
+  background-image: url("../simoji/svg/1f1e8-1f1fe.svg"), none; }
+
+.simoji-flag-cz {
+  background-image: url("../simoji/svg/1f1e8-1f1ff.svg"), none; }
+
+.simoji-flag-dg {
+  background-image: url("../simoji/svg/1f1e9-1f1ec.svg"), none; }
+
+.simoji-flag-dj {
+  background-image: url("../simoji/svg/1f1e9-1f1ef.svg"), none; }
+
+.simoji-flag-dk {
+  background-image: url("../simoji/svg/1f1e9-1f1f0.svg"), none; }
+
+.simoji-flag-dm {
+  background-image: url("../simoji/svg/1f1e9-1f1f2.svg"), none; }
+
+.simoji-flag-do {
+  background-image: url("../simoji/svg/1f1e9-1f1f4.svg"), none; }
+
+.simoji-flag-dz {
+  background-image: url("../simoji/svg/1f1e9-1f1ff.svg"), none; }
+
+.simoji-flag-ea {
+  background-image: url("../simoji/svg/1f1ea-1f1e6.svg"), none; }
+
+.simoji-flag-ec {
+  background-image: url("../simoji/svg/1f1ea-1f1e8.svg"), none; }
+
+.simoji-flag-ee {
+  background-image: url("../simoji/svg/1f1ea-1f1ea.svg"), none; }
+
+.simoji-flag-eg {
+  background-image: url("../simoji/svg/1f1ea-1f1ec.svg"), none; }
+
+.simoji-flag-eh {
+  background-image: url("../simoji/svg/1f1ea-1f1ed.svg"), none; }
+
+.simoji-flag-england {
+  background-image: url("../simoji/svg/1f3f4-e0067-e0062-e0065-e006e-e0067-e007f.svg"), none; }
+
+.simoji-flag-er {
+  background-image: url("../simoji/svg/1f1ea-1f1f7.svg"), none; }
+
+.simoji-flag-et {
+  background-image: url("../simoji/svg/1f1ea-1f1f9.svg"), none; }
+
+.simoji-flag-eu {
+  background-image: url("../simoji/svg/1f1ea-1f1fa.svg"), none; }
+
+.simoji-flag-fi {
+  background-image: url("../simoji/svg/1f1eb-1f1ee.svg"), none; }
+
+.simoji-flag-fj {
+  background-image: url("../simoji/svg/1f1eb-1f1ef.svg"), none; }
+
+.simoji-flag-fk {
+  background-image: url("../simoji/svg/1f1eb-1f1f0.svg"), none; }
+
+.simoji-flag-fm {
+  background-image: url("../simoji/svg/1f1eb-1f1f2.svg"), none; }
+
+.simoji-flag-fo {
+  background-image: url("../simoji/svg/1f1eb-1f1f4.svg"), none; }
+
+.simoji-flag-ga {
+  background-image: url("../simoji/svg/1f1ec-1f1e6.svg"), none; }
+
+.simoji-flag-gd {
+  background-image: url("../simoji/svg/1f1ec-1f1e9.svg"), none; }
+
+.simoji-flag-ge {
+  background-image: url("../simoji/svg/1f1ec-1f1ea.svg"), none; }
+
+.simoji-flag-gf {
+  background-image: url("../simoji/svg/1f1ec-1f1eb.svg"), none; }
+
+.simoji-flag-gg {
+  background-image: url("../simoji/svg/1f1ec-1f1ec.svg"), none; }
+
+.simoji-flag-gh {
+  background-image: url("../simoji/svg/1f1ec-1f1ed.svg"), none; }
+
+.simoji-flag-gi {
+  background-image: url("../simoji/svg/1f1ec-1f1ee.svg"), none; }
+
+.simoji-flag-gl {
+  background-image: url("../simoji/svg/1f1ec-1f1f1.svg"), none; }
+
+.simoji-flag-gm {
+  background-image: url("../simoji/svg/1f1ec-1f1f2.svg"), none; }
+
+.simoji-flag-gn {
+  background-image: url("../simoji/svg/1f1ec-1f1f3.svg"), none; }
+
+.simoji-flag-gp {
+  background-image: url("../simoji/svg/1f1ec-1f1f5.svg"), none; }
+
+.simoji-flag-gq {
+  background-image: url("../simoji/svg/1f1ec-1f1f6.svg"), none; }
+
+.simoji-flag-gr {
+  background-image: url("../simoji/svg/1f1ec-1f1f7.svg"), none; }
+
+.simoji-flag-gs {
+  background-image: url("../simoji/svg/1f1ec-1f1f8.svg"), none; }
+
+.simoji-flag-gt {
+  background-image: url("../simoji/svg/1f1ec-1f1f9.svg"), none; }
+
+.simoji-flag-gu {
+  background-image: url("../simoji/svg/1f1ec-1f1fa.svg"), none; }
+
+.simoji-flag-gw {
+  background-image: url("../simoji/svg/1f1ec-1f1fc.svg"), none; }
+
+.simoji-flag-gy {
+  background-image: url("../simoji/svg/1f1ec-1f1fe.svg"), none; }
+
+.simoji-flag-hk {
+  background-image: url("../simoji/svg/1f1ed-1f1f0.svg"), none; }
+
+.simoji-flag-hm {
+  background-image: url("../simoji/svg/1f1ed-1f1f2.svg"), none; }
+
+.simoji-flag-hn {
+  background-image: url("../simoji/svg/1f1ed-1f1f3.svg"), none; }
+
+.simoji-flag-hr {
+  background-image: url("../simoji/svg/1f1ed-1f1f7.svg"), none; }
+
+.simoji-flag-ht {
+  background-image: url("../simoji/svg/1f1ed-1f1f9.svg"), none; }
+
+.simoji-flag-hu {
+  background-image: url("../simoji/svg/1f1ed-1f1fa.svg"), none; }
+
+.simoji-flag-ic {
+  background-image: url("../simoji/svg/1f1ee-1f1e8.svg"), none; }
+
+.simoji-flag-id {
+  background-image: url("../simoji/svg/1f1ee-1f1e9.svg"), none; }
+
+.simoji-flag-ie {
+  background-image: url("../simoji/svg/1f1ee-1f1ea.svg"), none; }
+
+.simoji-flag-il {
+  background-image: url("../simoji/svg/1f1ee-1f1f1.svg"), none; }
+
+.simoji-flag-im {
+  background-image: url("../simoji/svg/1f1ee-1f1f2.svg"), none; }
+
+.simoji-flag-in {
+  background-image: url("../simoji/svg/1f1ee-1f1f3.svg"), none; }
+
+.simoji-flag-io {
+  background-image: url("../simoji/svg/1f1ee-1f1f4.svg"), none; }
+
+.simoji-flag-iq {
+  background-image: url("../simoji/svg/1f1ee-1f1f6.svg"), none; }
+
+.simoji-flag-ir {
+  background-image: url("../simoji/svg/1f1ee-1f1f7.svg"), none; }
+
+.simoji-flag-is {
+  background-image: url("../simoji/svg/1f1ee-1f1f8.svg"), none; }
+
+.simoji-flag-je {
+  background-image: url("../simoji/svg/1f1ef-1f1ea.svg"), none; }
+
+.simoji-flag-jm {
+  background-image: url("../simoji/svg/1f1ef-1f1f2.svg"), none; }
+
+.simoji-flag-jo {
+  background-image: url("../simoji/svg/1f1ef-1f1f4.svg"), none; }
+
+.simoji-flag-ke {
+  background-image: url("../simoji/svg/1f1f0-1f1ea.svg"), none; }
+
+.simoji-flag-kg {
+  background-image: url("../simoji/svg/1f1f0-1f1ec.svg"), none; }
+
+.simoji-flag-kh {
+  background-image: url("../simoji/svg/1f1f0-1f1ed.svg"), none; }
+
+.simoji-flag-ki {
+  background-image: url("../simoji/svg/1f1f0-1f1ee.svg"), none; }
+
+.simoji-flag-km {
+  background-image: url("../simoji/svg/1f1f0-1f1f2.svg"), none; }
+
+.simoji-flag-kn {
+  background-image: url("../simoji/svg/1f1f0-1f1f3.svg"), none; }
+
+.simoji-flag-kp {
+  background-image: url("../simoji/svg/1f1f0-1f1f5.svg"), none; }
+
+.simoji-flag-kw {
+  background-image: url("../simoji/svg/1f1f0-1f1fc.svg"), none; }
+
+.simoji-flag-ky {
+  background-image: url("../simoji/svg/1f1f0-1f1fe.svg"), none; }
+
+.simoji-flag-kz {
+  background-image: url("../simoji/svg/1f1f0-1f1ff.svg"), none; }
+
+.simoji-flag-la {
+  background-image: url("../simoji/svg/1f1f1-1f1e6.svg"), none; }
+
+.simoji-flag-lb {
+  background-image: url("../simoji/svg/1f1f1-1f1e7.svg"), none; }
+
+.simoji-flag-lc {
+  background-image: url("../simoji/svg/1f1f1-1f1e8.svg"), none; }
+
+.simoji-flag-li {
+  background-image: url("../simoji/svg/1f1f1-1f1ee.svg"), none; }
+
+.simoji-flag-lk {
+  background-image: url("../simoji/svg/1f1f1-1f1f0.svg"), none; }
+
+.simoji-flag-lr {
+  background-image: url("../simoji/svg/1f1f1-1f1f7.svg"), none; }
+
+.simoji-flag-ls {
+  background-image: url("../simoji/svg/1f1f1-1f1f8.svg"), none; }
+
+.simoji-flag-lt {
+  background-image: url("../simoji/svg/1f1f1-1f1f9.svg"), none; }
+
+.simoji-flag-lu {
+  background-image: url("../simoji/svg/1f1f1-1f1fa.svg"), none; }
+
+.simoji-flag-lv {
+  background-image: url("../simoji/svg/1f1f1-1f1fb.svg"), none; }
+
+.simoji-flag-ly {
+  background-image: url("../simoji/svg/1f1f1-1f1fe.svg"), none; }
+
+.simoji-flag-ma {
+  background-image: url("../simoji/svg/1f1f2-1f1e6.svg"), none; }
+
+.simoji-flag-mc {
+  background-image: url("../simoji/svg/1f1f2-1f1e8.svg"), none; }
+
+.simoji-flag-md {
+  background-image: url("../simoji/svg/1f1f2-1f1e9.svg"), none; }
+
+.simoji-flag-me {
+  background-image: url("../simoji/svg/1f1f2-1f1ea.svg"), none; }
+
+.simoji-flag-mf {
+  background-image: url("../simoji/svg/1f1f2-1f1eb.svg"), none; }
+
+.simoji-flag-mg {
+  background-image: url("../simoji/svg/1f1f2-1f1ec.svg"), none; }
+
+.simoji-flag-mh {
+  background-image: url("../simoji/svg/1f1f2-1f1ed.svg"), none; }
+
+.simoji-flag-mk {
+  background-image: url("../simoji/svg/1f1f2-1f1f0.svg"), none; }
+
+.simoji-flag-ml {
+  background-image: url("../simoji/svg/1f1f2-1f1f1.svg"), none; }
+
+.simoji-flag-mm {
+  background-image: url("../simoji/svg/1f1f2-1f1f2.svg"), none; }
+
+.simoji-flag-mn {
+  background-image: url("../simoji/svg/1f1f2-1f1f3.svg"), none; }
+
+.simoji-flag-mo {
+  background-image: url("../simoji/svg/1f1f2-1f1f4.svg"), none; }
+
+.simoji-flag-mp {
+  background-image: url("../simoji/svg/1f1f2-1f1f5.svg"), none; }
+
+.simoji-flag-mq {
+  background-image: url("../simoji/svg/1f1f2-1f1f6.svg"), none; }
+
+.simoji-flag-mr {
+  background-image: url("../simoji/svg/1f1f2-1f1f7.svg"), none; }
+
+.simoji-flag-ms {
+  background-image: url("../simoji/svg/1f1f2-1f1f8.svg"), none; }
+
+.simoji-flag-mt {
+  background-image: url("../simoji/svg/1f1f2-1f1f9.svg"), none; }
+
+.simoji-flag-mu {
+  background-image: url("../simoji/svg/1f1f2-1f1fa.svg"), none; }
+
+.simoji-flag-mv {
+  background-image: url("../simoji/svg/1f1f2-1f1fb.svg"), none; }
+
+.simoji-flag-mw {
+  background-image: url("../simoji/svg/1f1f2-1f1fc.svg"), none; }
+
+.simoji-flag-mx {
+  background-image: url("../simoji/svg/1f1f2-1f1fd.svg"), none; }
+
+.simoji-flag-my {
+  background-image: url("../simoji/svg/1f1f2-1f1fe.svg"), none; }
+
+.simoji-flag-mz {
+  background-image: url("../simoji/svg/1f1f2-1f1ff.svg"), none; }
+
+.simoji-flag-na {
+  background-image: url("../simoji/svg/1f1f3-1f1e6.svg"), none; }
+
+.simoji-flag-nc {
+  background-image: url("../simoji/svg/1f1f3-1f1e8.svg"), none; }
+
+.simoji-flag-ne {
+  background-image: url("../simoji/svg/1f1f3-1f1ea.svg"), none; }
+
+.simoji-flag-nf {
+  background-image: url("../simoji/svg/1f1f3-1f1eb.svg"), none; }
+
+.simoji-flag-ng {
+  background-image: url("../simoji/svg/1f1f3-1f1ec.svg"), none; }
+
+.simoji-flag-ni {
+  background-image: url("../simoji/svg/1f1f3-1f1ee.svg"), none; }
+
+.simoji-flag-nl {
+  background-image: url("../simoji/svg/1f1f3-1f1f1.svg"), none; }
+
+.simoji-flag-no {
+  background-image: url("../simoji/svg/1f1f3-1f1f4.svg"), none; }
+
+.simoji-flag-np {
+  background-image: url("../simoji/svg/1f1f3-1f1f5.svg"), none; }
+
+.simoji-flag-nr {
+  background-image: url("../simoji/svg/1f1f3-1f1f7.svg"), none; }
+
+.simoji-flag-nu {
+  background-image: url("../simoji/svg/1f1f3-1f1fa.svg"), none; }
+
+.simoji-flag-nz {
+  background-image: url("../simoji/svg/1f1f3-1f1ff.svg"), none; }
+
+.simoji-flag-om {
+  background-image: url("../simoji/svg/1f1f4-1f1f2.svg"), none; }
+
+.simoji-flag-pa {
+  background-image: url("../simoji/svg/1f1f5-1f1e6.svg"), none; }
+
+.simoji-flag-pe {
+  background-image: url("../simoji/svg/1f1f5-1f1ea.svg"), none; }
+
+.simoji-flag-pf {
+  background-image: url("../simoji/svg/1f1f5-1f1eb.svg"), none; }
+
+.simoji-flag-pg {
+  background-image: url("../simoji/svg/1f1f5-1f1ec.svg"), none; }
+
+.simoji-flag-ph {
+  background-image: url("../simoji/svg/1f1f5-1f1ed.svg"), none; }
+
+.simoji-flag-pk {
+  background-image: url("../simoji/svg/1f1f5-1f1f0.svg"), none; }
+
+.simoji-flag-pl {
+  background-image: url("../simoji/svg/1f1f5-1f1f1.svg"), none; }
+
+.simoji-flag-pm {
+  background-image: url("../simoji/svg/1f1f5-1f1f2.svg"), none; }
+
+.simoji-flag-pn {
+  background-image: url("../simoji/svg/1f1f5-1f1f3.svg"), none; }
+
+.simoji-flag-pr {
+  background-image: url("../simoji/svg/1f1f5-1f1f7.svg"), none; }
+
+.simoji-flag-ps {
+  background-image: url("../simoji/svg/1f1f5-1f1f8.svg"), none; }
+
+.simoji-flag-pt {
+  background-image: url("../simoji/svg/1f1f5-1f1f9.svg"), none; }
+
+.simoji-flag-pw {
+  background-image: url("../simoji/svg/1f1f5-1f1fc.svg"), none; }
+
+.simoji-flag-py {
+  background-image: url("../simoji/svg/1f1f5-1f1fe.svg"), none; }
+
+.simoji-flag-qa {
+  background-image: url("../simoji/svg/1f1f6-1f1e6.svg"), none; }
+
+.simoji-flag-re {
+  background-image: url("../simoji/svg/1f1f7-1f1ea.svg"), none; }
+
+.simoji-flag-ro {
+  background-image: url("../simoji/svg/1f1f7-1f1f4.svg"), none; }
+
+.simoji-flag-rs {
+  background-image: url("../simoji/svg/1f1f7-1f1f8.svg"), none; }
+
+.simoji-flag-rw {
+  background-image: url("../simoji/svg/1f1f7-1f1fc.svg"), none; }
+
+.simoji-flag-sa {
+  background-image: url("../simoji/svg/1f1f8-1f1e6.svg"), none; }
+
+.simoji-flag-sb {
+  background-image: url("../simoji/svg/1f1f8-1f1e7.svg"), none; }
+
+.simoji-flag-sc {
+  background-image: url("../simoji/svg/1f1f8-1f1e8.svg"), none; }
+
+.simoji-flag-scotland {
+  background-image: url("../simoji/svg/1f3f4-e0067-e0062-e0073-e0063-e0074-e007f.svg"), none; }
+
+.simoji-flag-sd {
+  background-image: url("../simoji/svg/1f1f8-1f1e9.svg"), none; }
+
+.simoji-flag-se {
+  background-image: url("../simoji/svg/1f1f8-1f1ea.svg"), none; }
+
+.simoji-flag-sg {
+  background-image: url("../simoji/svg/1f1f8-1f1ec.svg"), none; }
+
+.simoji-flag-sh {
+  background-image: url("../simoji/svg/1f1f8-1f1ed.svg"), none; }
+
+.simoji-flag-si {
+  background-image: url("../simoji/svg/1f1f8-1f1ee.svg"), none; }
+
+.simoji-flag-sj {
+  background-image: url("../simoji/svg/1f1f8-1f1ef.svg"), none; }
+
+.simoji-flag-sk {
+  background-image: url("../simoji/svg/1f1f8-1f1f0.svg"), none; }
+
+.simoji-flag-sl {
+  background-image: url("../simoji/svg/1f1f8-1f1f1.svg"), none; }
+
+.simoji-flag-sm {
+  background-image: url("../simoji/svg/1f1f8-1f1f2.svg"), none; }
+
+.simoji-flag-sn {
+  background-image: url("../simoji/svg/1f1f8-1f1f3.svg"), none; }
+
+.simoji-flag-so {
+  background-image: url("../simoji/svg/1f1f8-1f1f4.svg"), none; }
+
+.simoji-flag-sr {
+  background-image: url("../simoji/svg/1f1f8-1f1f7.svg"), none; }
+
+.simoji-flag-ss {
+  background-image: url("../simoji/svg/1f1f8-1f1f8.svg"), none; }
+
+.simoji-flag-st {
+  background-image: url("../simoji/svg/1f1f8-1f1f9.svg"), none; }
+
+.simoji-flag-sv {
+  background-image: url("../simoji/svg/1f1f8-1f1fb.svg"), none; }
+
+.simoji-flag-sx {
+  background-image: url("../simoji/svg/1f1f8-1f1fd.svg"), none; }
+
+.simoji-flag-sy {
+  background-image: url("../simoji/svg/1f1f8-1f1fe.svg"), none; }
+
+.simoji-flag-sz {
+  background-image: url("../simoji/svg/1f1f8-1f1ff.svg"), none; }
+
+.simoji-flag-ta {
+  background-image: url("../simoji/svg/1f1f9-1f1e6.svg"), none; }
+
+.simoji-flag-tc {
+  background-image: url("../simoji/svg/1f1f9-1f1e8.svg"), none; }
+
+.simoji-flag-td {
+  background-image: url("../simoji/svg/1f1f9-1f1e9.svg"), none; }
+
+.simoji-flag-tf {
+  background-image: url("../simoji/svg/1f1f9-1f1eb.svg"), none; }
+
+.simoji-flag-tg {
+  background-image: url("../simoji/svg/1f1f9-1f1ec.svg"), none; }
+
+.simoji-flag-th {
+  background-image: url("../simoji/svg/1f1f9-1f1ed.svg"), none; }
+
+.simoji-flag-tj {
+  background-image: url("../simoji/svg/1f1f9-1f1ef.svg"), none; }
+
+.simoji-flag-tk {
+  background-image: url("../simoji/svg/1f1f9-1f1f0.svg"), none; }
+
+.simoji-flag-tl {
+  background-image: url("../simoji/svg/1f1f9-1f1f1.svg"), none; }
+
+.simoji-flag-tm {
+  background-image: url("../simoji/svg/1f1f9-1f1f2.svg"), none; }
+
+.simoji-flag-tn {
+  background-image: url("../simoji/svg/1f1f9-1f1f3.svg"), none; }
+
+.simoji-flag-to {
+  background-image: url("../simoji/svg/1f1f9-1f1f4.svg"), none; }
+
+.simoji-flag-tr {
+  background-image: url("../simoji/svg/1f1f9-1f1f7.svg"), none; }
+
+.simoji-flag-tt {
+  background-image: url("../simoji/svg/1f1f9-1f1f9.svg"), none; }
+
+.simoji-flag-tv {
+  background-image: url("../simoji/svg/1f1f9-1f1fb.svg"), none; }
+
+.simoji-flag-tw {
+  background-image: url("../simoji/svg/1f1f9-1f1fc.svg"), none; }
+
+.simoji-flag-tz {
+  background-image: url("../simoji/svg/1f1f9-1f1ff.svg"), none; }
+
+.simoji-flag-ua {
+  background-image: url("../simoji/svg/1f1fa-1f1e6.svg"), none; }
+
+.simoji-flag-ug {
+  background-image: url("../simoji/svg/1f1fa-1f1ec.svg"), none; }
+
+.simoji-flag-um {
+  background-image: url("../simoji/svg/1f1fa-1f1f2.svg"), none; }
+
+.simoji-flag-un {
+  background-image: url("../simoji/svg/1f1fa-1f1f3.svg"), none; }
+
+.simoji-flag-uy {
+  background-image: url("../simoji/svg/1f1fa-1f1fe.svg"), none; }
+
+.simoji-flag-uz {
+  background-image: url("../simoji/svg/1f1fa-1f1ff.svg"), none; }
+
+.simoji-flag-va {
+  background-image: url("../simoji/svg/1f1fb-1f1e6.svg"), none; }
+
+.simoji-flag-vc {
+  background-image: url("../simoji/svg/1f1fb-1f1e8.svg"), none; }
+
+.simoji-flag-ve {
+  background-image: url("../simoji/svg/1f1fb-1f1ea.svg"), none; }
+
+.simoji-flag-vg {
+  background-image: url("../simoji/svg/1f1fb-1f1ec.svg"), none; }
+
+.simoji-flag-vi {
+  background-image: url("../simoji/svg/1f1fb-1f1ee.svg"), none; }
+
+.simoji-flag-vn {
+  background-image: url("../simoji/svg/1f1fb-1f1f3.svg"), none; }
+
+.simoji-flag-vu {
+  background-image: url("../simoji/svg/1f1fb-1f1fa.svg"), none; }
+
+.simoji-flag-wales {
+  background-image: url("../simoji/svg/1f3f4-e0067-e0062-e0077-e006c-e0073-e007f.svg"), none; }
+
+.simoji-flag-wf {
+  background-image: url("../simoji/svg/1f1fc-1f1eb.svg"), none; }
+
+.simoji-flag-ws {
+  background-image: url("../simoji/svg/1f1fc-1f1f8.svg"), none; }
+
+.simoji-flag-xk {
+  background-image: url("../simoji/svg/1f1fd-1f1f0.svg"), none; }
+
+.simoji-flag-ye {
+  background-image: url("../simoji/svg/1f1fe-1f1ea.svg"), none; }
+
+.simoji-flag-yt {
+  background-image: url("../simoji/svg/1f1fe-1f1f9.svg"), none; }
+
+.simoji-flag-za {
+  background-image: url("../simoji/svg/1f1ff-1f1e6.svg"), none; }
+
+.simoji-flag-zm {
+  background-image: url("../simoji/svg/1f1ff-1f1f2.svg"), none; }
+
+.simoji-flag-zw {
+  background-image: url("../simoji/svg/1f1ff-1f1fc.svg"), none; }
+
+.simoji-flags {
+  background-image: url("../simoji/svg/1f38f.svg"), none; }
+
+.simoji-flashlight {
+  background-image: url("../simoji/svg/1f526.svg"), none; }
+
+.simoji-fleur-de-lis {
+  background-image: url("../simoji/svg/269c.svg"), none; }
+
+.simoji-floppy-disk {
+  background-image: url("../simoji/svg/1f4be.svg"), none; }
+
+.simoji-flower-playing-cards {
+  background-image: url("../simoji/svg/1f3b4.svg"), none; }
+
+.simoji-flushed {
+  background-image: url("../simoji/svg/1f633.svg"), none; }
+
+.simoji-flying-disc {
+  background-image: url("../simoji/svg/1f94f.svg"), none; }
+
+.simoji-flying-saucer {
+  background-image: url("../simoji/svg/1f6f8.svg"), none; }
+
+.simoji-fog {
+  background-image: url("../simoji/svg/1f32b.svg"), none; }
+
+.simoji-foggy {
+  background-image: url("../simoji/svg/1f301.svg"), none; }
+
+.simoji-foot {
+  background-image: url("../simoji/svg/1f9b6.svg"), none; }
+
+.simoji-football {
+  background-image: url("../simoji/svg/1f3c8.svg"), none; }
+
+.simoji-footprints {
+  background-image: url("../simoji/svg/1f463.svg"), none; }
+
+.simoji-fork-and-knife {
+  background-image: url("../simoji/svg/1f374.svg"), none; }
+
+.simoji-fortune-cookie {
+  background-image: url("../simoji/svg/1f960.svg"), none; }
+
+.simoji-fountain {
+  background-image: url("../simoji/svg/26f2.svg"), none; }
+
+.simoji-four {
+  background-image: url("../simoji/svg/34-20e3.svg"), none; }
+
+.simoji-four-leaf-clover {
+  background-image: url("../simoji/svg/1f340.svg"), none; }
+
+.simoji-fox-face {
+  background-image: url("../simoji/svg/1f98a.svg"), none; }
+
+.simoji-fr-flag-fr {
+  background-image: url("../simoji/svg/1f1eb-1f1f7.svg"), none; }
+
+.simoji-frame-with-picture {
+  background-image: url("../simoji/svg/1f5bc.svg"), none; }
+
+.simoji-free {
+  background-image: url("../simoji/svg/1f193.svg"), none; }
+
+.simoji-fried-egg-cooking {
+  background-image: url("../simoji/svg/1f373.svg"), none; }
+
+.simoji-fried-shrimp {
+  background-image: url("../simoji/svg/1f364.svg"), none; }
+
+.simoji-fries {
+  background-image: url("../simoji/svg/1f35f.svg"), none; }
+
+.simoji-frog {
+  background-image: url("../simoji/svg/1f438.svg"), none; }
+
+.simoji-frowning {
+  background-image: url("../simoji/svg/1f626.svg"), none; }
+
+.simoji-fuelpump {
+  background-image: url("../simoji/svg/26fd.svg"), none; }
+
+.simoji-full-moon {
+  background-image: url("../simoji/svg/1f315.svg"), none; }
+
+.simoji-full-moon-with-face {
+  background-image: url("../simoji/svg/1f31d.svg"), none; }
+
+.simoji-funeral-urn {
+  background-image: url("../simoji/svg/26b1.svg"), none; }
+
+.simoji-game-die {
+  background-image: url("../simoji/svg/1f3b2.svg"), none; }
+
+.simoji-gb-uk-flag-gb {
+  background-image: url("../simoji/svg/1f1ec-1f1e7.svg"), none; }
+
+.simoji-gear {
+  background-image: url("../simoji/svg/2699.svg"), none; }
+
+.simoji-gem {
+  background-image: url("../simoji/svg/1f48e.svg"), none; }
+
+.simoji-gemini {
+  background-image: url("../simoji/svg/264a.svg"), none; }
+
+.simoji-genie {
+  background-image: url("../simoji/svg/1f9de.svg"), none; }
+
+.simoji-ghost {
+  background-image: url("../simoji/svg/1f47b.svg"), none; }
+
+.simoji-gift {
+  background-image: url("../simoji/svg/1f381.svg"), none; }
+
+.simoji-gift-heart {
+  background-image: url("../simoji/svg/1f49d.svg"), none; }
+
+.simoji-giraffe-face {
+  background-image: url("../simoji/svg/1f992.svg"), none; }
+
+.simoji-girl {
+  background-image: url("../simoji/svg/1f467.svg"), none; }
+
+.simoji-glass-of-milk {
+  background-image: url("../simoji/svg/1f95b.svg"), none; }
+
+.simoji-globe-with-meridians {
+  background-image: url("../simoji/svg/1f310.svg"), none; }
+
+.simoji-gloves {
+  background-image: url("../simoji/svg/1f9e4.svg"), none; }
+
+.simoji-goal-net {
+  background-image: url("../simoji/svg/1f945.svg"), none; }
+
+.simoji-goat {
+  background-image: url("../simoji/svg/1f410.svg"), none; }
+
+.simoji-goggles {
+  background-image: url("../simoji/svg/1f97d.svg"), none; }
+
+.simoji-golf {
+  background-image: url("../simoji/svg/26f3.svg"), none; }
+
+.simoji-golfer {
+  background-image: url("../simoji/svg/1f3cc.svg"), none; }
+
+.simoji-gorilla {
+  background-image: url("../simoji/svg/1f98d.svg"), none; }
+
+.simoji-grapes {
+  background-image: url("../simoji/svg/1f347.svg"), none; }
+
+.simoji-green-apple {
+  background-image: url("../simoji/svg/1f34f.svg"), none; }
+
+.simoji-green-book {
+  background-image: url("../simoji/svg/1f4d7.svg"), none; }
+
+.simoji-green-heart {
+  background-image: url("../simoji/svg/1f49a.svg"), none; }
+
+.simoji-green-salad {
+  background-image: url("../simoji/svg/1f957.svg"), none; }
+
+.simoji-grey-exclamation {
+  background-image: url("../simoji/svg/2755.svg"), none; }
+
+.simoji-grey-question {
+  background-image: url("../simoji/svg/2754.svg"), none; }
+
+.simoji-grimacing {
+  background-image: url("../simoji/svg/1f62c.svg"), none; }
+
+.simoji-grin {
+  background-image: url("../simoji/svg/1f601.svg"), none; }
+
+.simoji-grinning {
+  background-image: url("../simoji/svg/1f600.svg"), none; }
+
+.simoji-guardsman {
+  background-image: url("../simoji/svg/1f482.svg"), none; }
+
+.simoji-guitar {
+  background-image: url("../simoji/svg/1f3b8.svg"), none; }
+
+.simoji-gun {
+  background-image: url("../simoji/svg/1f52b.svg"), none; }
+
+.simoji-haircut {
+  background-image: url("../simoji/svg/1f487.svg"), none; }
+
+.simoji-hamburger {
+  background-image: url("../simoji/svg/1f354.svg"), none; }
+
+.simoji-hammer {
+  background-image: url("../simoji/svg/1f528.svg"), none; }
+
+.simoji-hammer-and-pick {
+  background-image: url("../simoji/svg/2692.svg"), none; }
+
+.simoji-hammer-and-wrench {
+  background-image: url("../simoji/svg/1f6e0.svg"), none; }
+
+.simoji-hamster {
+  background-image: url("../simoji/svg/1f439.svg"), none; }
+
+.simoji-hand-raised-hand {
+  background-image: url("../simoji/svg/270b.svg"), none; }
+
+.simoji-handbag {
+  background-image: url("../simoji/svg/1f45c.svg"), none; }
+
+.simoji-handball {
+  background-image: url("../simoji/svg/1f93e.svg"), none; }
+
+.simoji-handshake {
+  background-image: url("../simoji/svg/1f91d.svg"), none; }
+
+.simoji-hankey-poop-shit {
+  background-image: url("../simoji/svg/1f4a9.svg"), none; }
+
+.simoji-hash {
+  background-image: url("../simoji/svg/23-20e3.svg"), none; }
+
+.simoji-hatched-chick {
+  background-image: url("../simoji/svg/1f425.svg"), none; }
+
+.simoji-hatching-chick {
+  background-image: url("../simoji/svg/1f423.svg"), none; }
+
+.simoji-headphones {
+  background-image: url("../simoji/svg/1f3a7.svg"), none; }
+
+.simoji-hear-no-evil {
+  background-image: url("../simoji/svg/1f649.svg"), none; }
+
+.simoji-heart {
+  background-image: url("../simoji/svg/2764.svg"), none; }
+
+.simoji-heart-decoration {
+  background-image: url("../simoji/svg/1f49f.svg"), none; }
+
+.simoji-heart-eyes {
+  background-image: url("../simoji/svg/1f60d.svg"), none; }
+
+.simoji-heart-eyes-cat {
+  background-image: url("../simoji/svg/1f63b.svg"), none; }
+
+.simoji-heartbeat {
+  background-image: url("../simoji/svg/1f493.svg"), none; }
+
+.simoji-heartpulse {
+  background-image: url("../simoji/svg/1f497.svg"), none; }
+
+.simoji-hearts {
+  background-image: url("../simoji/svg/2665.svg"), none; }
+
+.simoji-heavy-check-mark {
+  background-image: url("../simoji/svg/2714.svg"), none; }
+
+.simoji-heavy-division-sign {
+  background-image: url("../simoji/svg/2797.svg"), none; }
+
+.simoji-heavy-dollar-sign {
+  background-image: url("../simoji/svg/1f4b2.svg"), none; }
+
+.simoji-heavy-heart-exclamation-mark-ornament {
+  background-image: url("../simoji/svg/2763.svg"), none; }
+
+.simoji-heavy-minus-sign {
+  background-image: url("../simoji/svg/2796.svg"), none; }
+
+.simoji-heavy-multiplication-x {
+  background-image: url("../simoji/svg/2716.svg"), none; }
+
+.simoji-heavy-plus-sign {
+  background-image: url("../simoji/svg/2795.svg"), none; }
+
+.simoji-hedgehog {
+  background-image: url("../simoji/svg/1f994.svg"), none; }
+
+.simoji-helicopter {
+  background-image: url("../simoji/svg/1f681.svg"), none; }
+
+.simoji-helmet-with-white-cross {
+  background-image: url("../simoji/svg/26d1.svg"), none; }
+
+.simoji-herb {
+  background-image: url("../simoji/svg/1f33f.svg"), none; }
+
+.simoji-hibiscus {
+  background-image: url("../simoji/svg/1f33a.svg"), none; }
+
+.simoji-high-brightness {
+  background-image: url("../simoji/svg/1f506.svg"), none; }
+
+.simoji-high-heel {
+  background-image: url("../simoji/svg/1f460.svg"), none; }
+
+.simoji-hiking-boot {
+  background-image: url("../simoji/svg/1f97e.svg"), none; }
+
+.simoji-hippopotamus {
+  background-image: url("../simoji/svg/1f99b.svg"), none; }
+
+.simoji-hocho-knife {
+  background-image: url("../simoji/svg/1f52a.svg"), none; }
+
+.simoji-hole {
+  background-image: url("../simoji/svg/1f573.svg"), none; }
+
+.simoji-honey-pot {
+  background-image: url("../simoji/svg/1f36f.svg"), none; }
+
+.simoji-horse {
+  background-image: url("../simoji/svg/1f434.svg"), none; }
+
+.simoji-horse-racing {
+  background-image: url("../simoji/svg/1f3c7.svg"), none; }
+
+.simoji-hospital {
+  background-image: url("../simoji/svg/1f3e5.svg"), none; }
+
+.simoji-hot-face {
+  background-image: url("../simoji/svg/1f975.svg"), none; }
+
+.simoji-hot-pepper {
+  background-image: url("../simoji/svg/1f336.svg"), none; }
+
+.simoji-hotdog {
+  background-image: url("../simoji/svg/1f32d.svg"), none; }
+
+.simoji-hotel {
+  background-image: url("../simoji/svg/1f3e8.svg"), none; }
+
+.simoji-hotsprings {
+  background-image: url("../simoji/svg/2668.svg"), none; }
+
+.simoji-hourglass {
+  background-image: url("../simoji/svg/231b.svg"), none; }
+
+.simoji-hourglass-flowing-sand {
+  background-image: url("../simoji/svg/23f3.svg"), none; }
+
+.simoji-house {
+  background-image: url("../simoji/svg/1f3e0.svg"), none; }
+
+.simoji-house-buildings {
+  background-image: url("../simoji/svg/1f3d8.svg"), none; }
+
+.simoji-house-with-garden {
+  background-image: url("../simoji/svg/1f3e1.svg"), none; }
+
+.simoji-hugging-face {
+  background-image: url("../simoji/svg/1f917.svg"), none; }
+
+.simoji-hushed {
+  background-image: url("../simoji/svg/1f62f.svg"), none; }
+
+.simoji-i-love-you-hand-sign {
+  background-image: url("../simoji/svg/1f91f.svg"), none; }
+
+.simoji-ice-cream {
+  background-image: url("../simoji/svg/1f368.svg"), none; }
+
+.simoji-ice-hockey-stick-and-puck {
+  background-image: url("../simoji/svg/1f3d2.svg"), none; }
+
+.simoji-ice-skate {
+  background-image: url("../simoji/svg/26f8.svg"), none; }
+
+.simoji-icecream {
+  background-image: url("../simoji/svg/1f366.svg"), none; }
+
+.simoji-id {
+  background-image: url("../simoji/svg/1f194.svg"), none; }
+
+.simoji-ideograph-advantage {
+  background-image: url("../simoji/svg/1f250.svg"), none; }
+
+.simoji-imp {
+  background-image: url("../simoji/svg/1f47f.svg"), none; }
+
+.simoji-inbox-tray {
+  background-image: url("../simoji/svg/1f4e5.svg"), none; }
+
+.simoji-incoming-envelope {
+  background-image: url("../simoji/svg/1f4e8.svg"), none; }
+
+.simoji-infinity {
+  background-image: url("../simoji/svg/267e.svg"), none; }
+
+.simoji-information-desk-person {
+  background-image: url("../simoji/svg/1f481.svg"), none; }
+
+.simoji-information-source {
+  background-image: url("../simoji/svg/2139.svg"), none; }
+
+.simoji-innocent {
+  background-image: url("../simoji/svg/1f607.svg"), none; }
+
+.simoji-interrobang {
+  background-image: url("../simoji/svg/2049.svg"), none; }
+
+.simoji-iphone {
+  background-image: url("../simoji/svg/1f4f1.svg"), none; }
+
+.simoji-it-flag-it {
+  background-image: url("../simoji/svg/1f1ee-1f1f9.svg"), none; }
+
+.simoji-izakaya-lantern-lantern {
+  background-image: url("../simoji/svg/1f3ee.svg"), none; }
+
+.simoji-jack-o-lantern {
+  background-image: url("../simoji/svg/1f383.svg"), none; }
+
+.simoji-japan {
+  background-image: url("../simoji/svg/1f5fe.svg"), none; }
+
+.simoji-japanese-castle {
+  background-image: url("../simoji/svg/1f3ef.svg"), none; }
+
+.simoji-japanese-goblin {
+  background-image: url("../simoji/svg/1f47a.svg"), none; }
+
+.simoji-japanese-ogre {
+  background-image: url("../simoji/svg/1f479.svg"), none; }
+
+.simoji-jeans {
+  background-image: url("../simoji/svg/1f456.svg"), none; }
+
+.simoji-jigsaw {
+  background-image: url("../simoji/svg/1f9e9.svg"), none; }
+
+.simoji-joy {
+  background-image: url("../simoji/svg/1f602.svg"), none; }
+
+.simoji-joy-cat {
+  background-image: url("../simoji/svg/1f639.svg"), none; }
+
+.simoji-joystick {
+  background-image: url("../simoji/svg/1f579.svg"), none; }
+
+.simoji-jp-flag-jp {
+  background-image: url("../simoji/svg/1f1ef-1f1f5.svg"), none; }
+
+.simoji-juggling {
+  background-image: url("../simoji/svg/1f939.svg"), none; }
+
+.simoji-kaaba {
+  background-image: url("../simoji/svg/1f54b.svg"), none; }
+
+.simoji-kangaroo {
+  background-image: url("../simoji/svg/1f998.svg"), none; }
+
+.simoji-key {
+  background-image: url("../simoji/svg/1f511.svg"), none; }
+
+.simoji-keyboard {
+  background-image: url("../simoji/svg/2328.svg"), none; }
+
+.simoji-keycap-star {
+  background-image: url("../simoji/svg/2a-20e3.svg"), none; }
+
+.simoji-keycap-ten {
+  background-image: url("../simoji/svg/1f51f.svg"), none; }
+
+.simoji-kimono {
+  background-image: url("../simoji/svg/1f458.svg"), none; }
+
+.simoji-kiss {
+  background-image: url("../simoji/svg/1f48b.svg"), none; }
+
+.simoji-kissing {
+  background-image: url("../simoji/svg/1f617.svg"), none; }
+
+.simoji-kissing-cat {
+  background-image: url("../simoji/svg/1f63d.svg"), none; }
+
+.simoji-kissing-closed-eyes {
+  background-image: url("../simoji/svg/1f61a.svg"), none; }
+
+.simoji-kissing-heart {
+  background-image: url("../simoji/svg/1f618.svg"), none; }
+
+.simoji-kissing-smiling-eyes {
+  background-image: url("../simoji/svg/1f619.svg"), none; }
+
+.simoji-kiwifruit {
+  background-image: url("../simoji/svg/1f95d.svg"), none; }
+
+.simoji-knife-fork-plate {
+  background-image: url("../simoji/svg/1f37d.svg"), none; }
+
+.simoji-koala {
+  background-image: url("../simoji/svg/1f428.svg"), none; }
+
+.simoji-koko {
+  background-image: url("../simoji/svg/1f201.svg"), none; }
+
+.simoji-kr-flag-kr {
+  background-image: url("../simoji/svg/1f1f0-1f1f7.svg"), none; }
+
+.simoji-lab-coat {
+  background-image: url("../simoji/svg/1f97c.svg"), none; }
+
+.simoji-label {
+  background-image: url("../simoji/svg/1f3f7.svg"), none; }
+
+.simoji-lacrosse {
+  background-image: url("../simoji/svg/1f94d.svg"), none; }
+
+.simoji-large-blue-circle {
+  background-image: url("../simoji/svg/1f535.svg"), none; }
+
+.simoji-large-blue-diamond {
+  background-image: url("../simoji/svg/1f537.svg"), none; }
+
+.simoji-large-orange-diamond {
+  background-image: url("../simoji/svg/1f536.svg"), none; }
+
+.simoji-last-quarter-moon {
+  background-image: url("../simoji/svg/1f317.svg"), none; }
+
+.simoji-last-quarter-moon-with-face {
+  background-image: url("../simoji/svg/1f31c.svg"), none; }
+
+.simoji-latin-cross {
+  background-image: url("../simoji/svg/271d.svg"), none; }
+
+.simoji-laughing-satisfied {
+  background-image: url("../simoji/svg/1f606.svg"), none; }
+
+.simoji-leafy-green {
+  background-image: url("../simoji/svg/1f96c.svg"), none; }
+
+.simoji-leaves {
+  background-image: url("../simoji/svg/1f343.svg"), none; }
+
+.simoji-ledger {
+  background-image: url("../simoji/svg/1f4d2.svg"), none; }
+
+.simoji-left-facing-fist {
+  background-image: url("../simoji/svg/1f91b.svg"), none; }
+
+.simoji-left-luggage {
+  background-image: url("../simoji/svg/1f6c5.svg"), none; }
+
+.simoji-left-right-arrow {
+  background-image: url("../simoji/svg/2194.svg"), none; }
+
+.simoji-left-speech-bubble {
+  background-image: url("../simoji/svg/1f5e8.svg"), none; }
+
+.simoji-leftwards-arrow-with-hook {
+  background-image: url("../simoji/svg/21a9.svg"), none; }
+
+.simoji-leg {
+  background-image: url("../simoji/svg/1f9b5.svg"), none; }
+
+.simoji-lemon {
+  background-image: url("../simoji/svg/1f34b.svg"), none; }
+
+.simoji-leo {
+  background-image: url("../simoji/svg/264c.svg"), none; }
+
+.simoji-leopard {
+  background-image: url("../simoji/svg/1f406.svg"), none; }
+
+.simoji-level-slider {
+  background-image: url("../simoji/svg/1f39a.svg"), none; }
+
+.simoji-libra {
+  background-image: url("../simoji/svg/264e.svg"), none; }
+
+.simoji-light-rail {
+  background-image: url("../simoji/svg/1f688.svg"), none; }
+
+.simoji-lightning-lightning-cloud {
+  background-image: url("../simoji/svg/1f329.svg"), none; }
+
+.simoji-link {
+  background-image: url("../simoji/svg/1f517.svg"), none; }
+
+.simoji-linked-paperclips {
+  background-image: url("../simoji/svg/1f587.svg"), none; }
+
+.simoji-lion-face {
+  background-image: url("../simoji/svg/1f981.svg"), none; }
+
+.simoji-lips {
+  background-image: url("../simoji/svg/1f444.svg"), none; }
+
+.simoji-lipstick {
+  background-image: url("../simoji/svg/1f484.svg"), none; }
+
+.simoji-lizard {
+  background-image: url("../simoji/svg/1f98e.svg"), none; }
+
+.simoji-llama {
+  background-image: url("../simoji/svg/1f999.svg"), none; }
+
+.simoji-lobster {
+  background-image: url("../simoji/svg/1f99e.svg"), none; }
+
+.simoji-lock {
+  background-image: url("../simoji/svg/1f512.svg"), none; }
+
+.simoji-lock-with-ink-pen {
+  background-image: url("../simoji/svg/1f50f.svg"), none; }
+
+.simoji-lollipop {
+  background-image: url("../simoji/svg/1f36d.svg"), none; }
+
+.simoji-loop {
+  background-image: url("../simoji/svg/27bf.svg"), none; }
+
+.simoji-lotion-bottle {
+  background-image: url("../simoji/svg/1f9f4.svg"), none; }
+
+.simoji-loud-sound {
+  background-image: url("../simoji/svg/1f50a.svg"), none; }
+
+.simoji-loudspeaker {
+  background-image: url("../simoji/svg/1f4e2.svg"), none; }
+
+.simoji-love-hotel {
+  background-image: url("../simoji/svg/1f3e9.svg"), none; }
+
+.simoji-love-letter {
+  background-image: url("../simoji/svg/1f48c.svg"), none; }
+
+.simoji-low-brightness {
+  background-image: url("../simoji/svg/1f505.svg"), none; }
+
+.simoji-lower-left-ballpoint-pen {
+  background-image: url("../simoji/svg/1f58a.svg"), none; }
+
+.simoji-lower-left-crayon {
+  background-image: url("../simoji/svg/1f58d.svg"), none; }
+
+.simoji-lower-left-fountain-pen {
+  background-image: url("../simoji/svg/1f58b.svg"), none; }
+
+.simoji-lower-left-paintbrush {
+  background-image: url("../simoji/svg/1f58c.svg"), none; }
+
+.simoji-luggage {
+  background-image: url("../simoji/svg/1f9f3.svg"), none; }
+
+.simoji-lying-face {
+  background-image: url("../simoji/svg/1f925.svg"), none; }
+
+.simoji-m {
+  background-image: url("../simoji/svg/24c2.svg"), none; }
+
+.simoji-mag {
+  background-image: url("../simoji/svg/1f50d.svg"), none; }
+
+.simoji-mag-right {
+  background-image: url("../simoji/svg/1f50e.svg"), none; }
+
+.simoji-mage {
+  background-image: url("../simoji/svg/1f9d9.svg"), none; }
+
+.simoji-magnet {
+  background-image: url("../simoji/svg/1f9f2.svg"), none; }
+
+.simoji-mahjong {
+  background-image: url("../simoji/svg/1f004.svg"), none; }
+
+.simoji-mailbox {
+  background-image: url("../simoji/svg/1f4eb.svg"), none; }
+
+.simoji-mailbox-closed {
+  background-image: url("../simoji/svg/1f4ea.svg"), none; }
+
+.simoji-mailbox-with-mail {
+  background-image: url("../simoji/svg/1f4ec.svg"), none; }
+
+.simoji-mailbox-with-no-mail {
+  background-image: url("../simoji/svg/1f4ed.svg"), none; }
+
+.simoji-male-artist {
+  background-image: url("../simoji/svg/1f468-200d-1f3a8.svg"), none; }
+
+.simoji-male-astronaut {
+  background-image: url("../simoji/svg/1f468-200d-1f680.svg"), none; }
+
+.simoji-male-construction-worker {
+  background-image: url("../simoji/svg/1f477-200d-2642-fe0f.svg"), none; }
+
+.simoji-male-cook {
+  background-image: url("../simoji/svg/1f468-200d-1f373.svg"), none; }
+
+.simoji-male-detective {
+  background-image: url("../simoji/svg/1f575-fe0f-200d-2642-fe0f.svg"), none; }
+
+.simoji-male-doctor {
+  background-image: url("../simoji/svg/1f468-200d-2695-fe0f.svg"), none; }
+
+.simoji-male-factory-worker {
+  background-image: url("../simoji/svg/1f468-200d-1f3ed.svg"), none; }
+
+.simoji-male-farmer {
+  background-image: url("../simoji/svg/1f468-200d-1f33e.svg"), none; }
+
+.simoji-male-firefighter {
+  background-image: url("../simoji/svg/1f468-200d-1f692.svg"), none; }
+
+.simoji-male-guard {
+  background-image: url("../simoji/svg/1f482-200d-2642-fe0f.svg"), none; }
+
+.simoji-male-judge {
+  background-image: url("../simoji/svg/1f468-200d-2696-fe0f.svg"), none; }
+
+.simoji-male-mechanic {
+  background-image: url("../simoji/svg/1f468-200d-1f527.svg"), none; }
+
+.simoji-male-office-worker {
+  background-image: url("../simoji/svg/1f468-200d-1f4bc.svg"), none; }
+
+.simoji-male-pilot {
+  background-image: url("../simoji/svg/1f468-200d-2708-fe0f.svg"), none; }
+
+.simoji-male-police-officer {
+  background-image: url("../simoji/svg/1f46e-200d-2642-fe0f.svg"), none; }
+
+.simoji-male-scientist {
+  background-image: url("../simoji/svg/1f468-200d-1f52c.svg"), none; }
+
+.simoji-male-singer {
+  background-image: url("../simoji/svg/1f468-200d-1f3a4.svg"), none; }
+
+.simoji-male-student {
+  background-image: url("../simoji/svg/1f468-200d-1f393.svg"), none; }
+
+.simoji-male-teacher {
+  background-image: url("../simoji/svg/1f468-200d-1f3eb.svg"), none; }
+
+.simoji-male-technologist {
+  background-image: url("../simoji/svg/1f468-200d-1f4bb.svg"), none; }
+
+.simoji-male-bald {
+  background-image: url("../simoji/svg/1f468-200d-1f9b2.svg"), none; }
+
+.simoji-male-curly-haired {
+  background-image: url("../simoji/svg/1f468-200d-1f9b1.svg"), none; }
+
+.simoji-male-elf {
+  background-image: url("../simoji/svg/1f9dd-200d-2642-fe0f.svg"), none; }
+
+.simoji-male-fairy {
+  background-image: url("../simoji/svg/1f9da-200d-2642-fe0f.svg"), none; }
+
+.simoji-male-genie {
+  background-image: url("../simoji/svg/1f9de-200d-2642-fe0f.svg"), none; }
+
+.simoji-male-mage {
+  background-image: url("../simoji/svg/1f9d9-200d-2642-fe0f.svg"), none; }
+
+.simoji-male-red-haired {
+  background-image: url("../simoji/svg/1f468-200d-1f9b0.svg"), none; }
+
+.simoji-male-sign {
+  background-image: url("../simoji/svg/2642.svg"), none; }
+
+.simoji-male-superhero {
+  background-image: url("../simoji/svg/1f9b8-200d-2642-fe0f.svg"), none; }
+
+.simoji-male-supervillain {
+  background-image: url("../simoji/svg/1f9b9-200d-2642-fe0f.svg"), none; }
+
+.simoji-male-vampire {
+  background-image: url("../simoji/svg/1f9db-200d-2642-fe0f.svg"), none; }
+
+.simoji-male-white-haired {
+  background-image: url("../simoji/svg/1f468-200d-1f9b3.svg"), none; }
+
+.simoji-male-zombie {
+  background-image: url("../simoji/svg/1f9df-200d-2642-fe0f.svg"), none; }
+
+.simoji-man {
+  background-image: url("../simoji/svg/1f468.svg"), none; }
+
+.simoji-man-biking {
+  background-image: url("../simoji/svg/1f6b4-200d-2642-fe0f.svg"), none; }
+
+.simoji-man-bouncing-ball {
+  background-image: url("../simoji/svg/26f9-fe0f-200d-2642-fe0f.svg"), none; }
+
+.simoji-man-bowing {
+  background-image: url("../simoji/svg/1f647-200d-2642-fe0f.svg"), none; }
+
+.simoji-man-boy {
+  background-image: url("../simoji/svg/1f468-200d-1f466.svg"), none; }
+
+.simoji-man-boy-boy {
+  background-image: url("../simoji/svg/1f468-200d-1f466-200d-1f466.svg"), none; }
+
+.simoji-man-cartwheeling {
+  background-image: url("../simoji/svg/1f938-200d-2642-fe0f.svg"), none; }
+
+.simoji-man-facepalming {
+  background-image: url("../simoji/svg/1f926-200d-2642-fe0f.svg"), none; }
+
+.simoji-man-frowning {
+  background-image: url("../simoji/svg/1f64d-200d-2642-fe0f.svg"), none; }
+
+.simoji-man-gesturing-no {
+  background-image: url("../simoji/svg/1f645-200d-2642-fe0f.svg"), none; }
+
+.simoji-man-gesturing-ok {
+  background-image: url("../simoji/svg/1f646-200d-2642-fe0f.svg"), none; }
+
+.simoji-man-getting-haircut {
+  background-image: url("../simoji/svg/1f487-200d-2642-fe0f.svg"), none; }
+
+.simoji-man-getting-massage {
+  background-image: url("../simoji/svg/1f486-200d-2642-fe0f.svg"), none; }
+
+.simoji-man-girl {
+  background-image: url("../simoji/svg/1f468-200d-1f467.svg"), none; }
+
+.simoji-man-girl-boy {
+  background-image: url("../simoji/svg/1f468-200d-1f467-200d-1f466.svg"), none; }
+
+.simoji-man-girl-girl {
+  background-image: url("../simoji/svg/1f468-200d-1f467-200d-1f467.svg"), none; }
+
+.simoji-man-golfing {
+  background-image: url("../simoji/svg/1f3cc-fe0f-200d-2642-fe0f.svg"), none; }
+
+.simoji-man-heart-man {
+  background-image: url("../simoji/svg/1f468-200d-2764-fe0f-200d-1f468.svg"), none; }
+
+.simoji-man-juggling {
+  background-image: url("../simoji/svg/1f939-200d-2642-fe0f.svg"), none; }
+
+.simoji-man-kiss-man {
+  background-image: url("../simoji/svg/1f468-200d-2764-fe0f-200d-1f48b-200d-1f468.svg"), none; }
+
+.simoji-man-lifting-weights {
+  background-image: url("../simoji/svg/1f3cb-fe0f-200d-2642-fe0f.svg"), none; }
+
+.simoji-man-man-boy {
+  background-image: url("../simoji/svg/1f468-200d-1f468-200d-1f466.svg"), none; }
+
+.simoji-man-man-boy-boy {
+  background-image: url("../simoji/svg/1f468-200d-1f468-200d-1f466-200d-1f466.svg"), none; }
+
+.simoji-man-man-girl {
+  background-image: url("../simoji/svg/1f468-200d-1f468-200d-1f467.svg"), none; }
+
+.simoji-man-man-girl-boy {
+  background-image: url("../simoji/svg/1f468-200d-1f468-200d-1f467-200d-1f466.svg"), none; }
+
+.simoji-man-man-girl-girl {
+  background-image: url("../simoji/svg/1f468-200d-1f468-200d-1f467-200d-1f467.svg"), none; }
+
+.simoji-man-mountain-biking {
+  background-image: url("../simoji/svg/1f6b5-200d-2642-fe0f.svg"), none; }
+
+.simoji-man-playing-handball {
+  background-image: url("../simoji/svg/1f93e-200d-2642-fe0f.svg"), none; }
+
+.simoji-man-playing-water-polo {
+  background-image: url("../simoji/svg/1f93d-200d-2642-fe0f.svg"), none; }
+
+.simoji-man-pouting {
+  background-image: url("../simoji/svg/1f64e-200d-2642-fe0f.svg"), none; }
+
+.simoji-man-raising-hand {
+  background-image: url("../simoji/svg/1f64b-200d-2642-fe0f.svg"), none; }
+
+.simoji-man-rowing-boat {
+  background-image: url("../simoji/svg/1f6a3-200d-2642-fe0f.svg"), none; }
+
+.simoji-man-running {
+  background-image: url("../simoji/svg/1f3c3-200d-2642-fe0f.svg"), none; }
+
+.simoji-man-shrugging {
+  background-image: url("../simoji/svg/1f937-200d-2642-fe0f.svg"), none; }
+
+.simoji-man-surfing {
+  background-image: url("../simoji/svg/1f3c4-200d-2642-fe0f.svg"), none; }
+
+.simoji-man-swimming {
+  background-image: url("../simoji/svg/1f3ca-200d-2642-fe0f.svg"), none; }
+
+.simoji-man-tipping-hand {
+  background-image: url("../simoji/svg/1f481-200d-2642-fe0f.svg"), none; }
+
+.simoji-man-walking {
+  background-image: url("../simoji/svg/1f6b6-200d-2642-fe0f.svg"), none; }
+
+.simoji-man-wearing-turban {
+  background-image: url("../simoji/svg/1f473-200d-2642-fe0f.svg"), none; }
+
+.simoji-man-with-bunny-ears-partying {
+  background-image: url("../simoji/svg/1f46f-200d-2642-fe0f.svg"), none; }
+
+.simoji-man-woman-boy-family {
+  background-image: url("../simoji/svg/1f468-200d-1f469-200d-1f466.svg"), none; }
+
+.simoji-man-woman-boy-boy {
+  background-image: url("../simoji/svg/1f468-200d-1f469-200d-1f466-200d-1f466.svg"), none; }
+
+.simoji-man-woman-girl {
+  background-image: url("../simoji/svg/1f468-200d-1f469-200d-1f467.svg"), none; }
+
+.simoji-man-woman-girl-boy {
+  background-image: url("../simoji/svg/1f468-200d-1f469-200d-1f467-200d-1f466.svg"), none; }
+
+.simoji-man-woman-girl-girl {
+  background-image: url("../simoji/svg/1f468-200d-1f469-200d-1f467-200d-1f467.svg"), none; }
+
+.simoji-man-wrestling {
+  background-image: url("../simoji/svg/1f93c-200d-2642-fe0f.svg"), none; }
+
+.simoji-man-climbing {
+  background-image: url("../simoji/svg/1f9d7-200d-2642-fe0f.svg"), none; }
+
+.simoji-man-dancing {
+  background-image: url("../simoji/svg/1f57a.svg"), none; }
+
+.simoji-man-in-business-suit-levitating {
+  background-image: url("../simoji/svg/1f574.svg"), none; }
+
+.simoji-man-in-lotus-position {
+  background-image: url("../simoji/svg/1f9d8-200d-2642-fe0f.svg"), none; }
+
+.simoji-man-in-steamy-room {
+  background-image: url("../simoji/svg/1f9d6-200d-2642-fe0f.svg"), none; }
+
+.simoji-man-in-tuxedo {
+  background-image: url("../simoji/svg/1f935.svg"), none; }
+
+.simoji-man-with-gua-pi-mao {
+  background-image: url("../simoji/svg/1f472.svg"), none; }
+
+.simoji-man-with-turban {
+  background-image: url("../simoji/svg/1f473.svg"), none; }
+
+.simoji-mango {
+  background-image: url("../simoji/svg/1f96d.svg"), none; }
+
+.simoji-mans-shoe-shoe {
+  background-image: url("../simoji/svg/1f45e.svg"), none; }
+
+.simoji-mantelpiece-clock {
+  background-image: url("../simoji/svg/1f570.svg"), none; }
+
+.simoji-maple-leaf {
+  background-image: url("../simoji/svg/1f341.svg"), none; }
+
+.simoji-martial-arts-uniform {
+  background-image: url("../simoji/svg/1f94b.svg"), none; }
+
+.simoji-mask {
+  background-image: url("../simoji/svg/1f637.svg"), none; }
+
+.simoji-massage {
+  background-image: url("../simoji/svg/1f486.svg"), none; }
+
+.simoji-meat-on-bone {
+  background-image: url("../simoji/svg/1f356.svg"), none; }
+
+.simoji-medal {
+  background-image: url("../simoji/svg/1f396.svg"), none; }
+
+.simoji-medical-symbol-staff-of-aesculapius {
+  background-image: url("../simoji/svg/2695.svg"), none; }
+
+.simoji-mega {
+  background-image: url("../simoji/svg/1f4e3.svg"), none; }
+
+.simoji-melon {
+  background-image: url("../simoji/svg/1f348.svg"), none; }
+
+.simoji-memo-pencil {
+  background-image: url("../simoji/svg/1f4dd.svg"), none; }
+
+.simoji-menorah-with-nine-branches {
+  background-image: url("../simoji/svg/1f54e.svg"), none; }
+
+.simoji-mens {
+  background-image: url("../simoji/svg/1f6b9.svg"), none; }
+
+.simoji-mermaid {
+  background-image: url("../simoji/svg/1f9dc-200d-2640-fe0f.svg"), none; }
+
+.simoji-merman {
+  background-image: url("../simoji/svg/1f9dc-200d-2642-fe0f.svg"), none; }
+
+.simoji-merperson {
+  background-image: url("../simoji/svg/1f9dc.svg"), none; }
+
+.simoji-metro {
+  background-image: url("../simoji/svg/1f687.svg"), none; }
+
+.simoji-microbe {
+  background-image: url("../simoji/svg/1f9a0.svg"), none; }
+
+.simoji-microphone {
+  background-image: url("../simoji/svg/1f3a4.svg"), none; }
+
+.simoji-microscope {
+  background-image: url("../simoji/svg/1f52c.svg"), none; }
+
+.simoji-middle-finger-reversed-hand-with-middle-finger-extended {
+  background-image: url("../simoji/svg/1f595.svg"), none; }
+
+.simoji-milky-way {
+  background-image: url("../simoji/svg/1f30c.svg"), none; }
+
+.simoji-minibus {
+  background-image: url("../simoji/svg/1f690.svg"), none; }
+
+.simoji-minidisc {
+  background-image: url("../simoji/svg/1f4bd.svg"), none; }
+
+.simoji-mobile-phone-off {
+  background-image: url("../simoji/svg/1f4f4.svg"), none; }
+
+.simoji-money-mouth-face {
+  background-image: url("../simoji/svg/1f911.svg"), none; }
+
+.simoji-money-with-wings {
+  background-image: url("../simoji/svg/1f4b8.svg"), none; }
+
+.simoji-moneybag {
+  background-image: url("../simoji/svg/1f4b0.svg"), none; }
+
+.simoji-monkey {
+  background-image: url("../simoji/svg/1f412.svg"), none; }
+
+.simoji-monkey-face {
+  background-image: url("../simoji/svg/1f435.svg"), none; }
+
+.simoji-monorail {
+  background-image: url("../simoji/svg/1f69d.svg"), none; }
+
+.simoji-moon-waxing-gibbous-moon {
+  background-image: url("../simoji/svg/1f314.svg"), none; }
+
+.simoji-moon-cake {
+  background-image: url("../simoji/svg/1f96e.svg"), none; }
+
+.simoji-mortar-board {
+  background-image: url("../simoji/svg/1f393.svg"), none; }
+
+.simoji-mosque {
+  background-image: url("../simoji/svg/1f54c.svg"), none; }
+
+.simoji-mosquito {
+  background-image: url("../simoji/svg/1f99f.svg"), none; }
+
+.simoji-mostly-sunny-sun-small-cloud {
+  background-image: url("../simoji/svg/1f324.svg"), none; }
+
+.simoji-motor-boat {
+  background-image: url("../simoji/svg/1f6e5.svg"), none; }
+
+.simoji-motor-scooter {
+  background-image: url("../simoji/svg/1f6f5.svg"), none; }
+
+.simoji-motorway {
+  background-image: url("../simoji/svg/1f6e3.svg"), none; }
+
+.simoji-mount-fuji {
+  background-image: url("../simoji/svg/1f5fb.svg"), none; }
+
+.simoji-mountain {
+  background-image: url("../simoji/svg/26f0.svg"), none; }
+
+.simoji-mountain-bicyclist {
+  background-image: url("../simoji/svg/1f6b5.svg"), none; }
+
+.simoji-mountain-cableway {
+  background-image: url("../simoji/svg/1f6a0.svg"), none; }
+
+.simoji-mountain-railway {
+  background-image: url("../simoji/svg/1f69e.svg"), none; }
+
+.simoji-mouse {
+  background-image: url("../simoji/svg/1f42d.svg"), none; }
+
+.simoji-mouse2 {
+  background-image: url("../simoji/svg/1f401.svg"), none; }
+
+.simoji-movie-camera {
+  background-image: url("../simoji/svg/1f3a5.svg"), none; }
+
+.simoji-moyai {
+  background-image: url("../simoji/svg/1f5ff.svg"), none; }
+
+.simoji-mrs-claus-mother-christmas {
+  background-image: url("../simoji/svg/1f936.svg"), none; }
+
+.simoji-muscle {
+  background-image: url("../simoji/svg/1f4aa.svg"), none; }
+
+.simoji-mushroom {
+  background-image: url("../simoji/svg/1f344.svg"), none; }
+
+.simoji-musical-keyboard {
+  background-image: url("../simoji/svg/1f3b9.svg"), none; }
+
+.simoji-musical-note {
+  background-image: url("../simoji/svg/1f3b5.svg"), none; }
+
+.simoji-musical-score {
+  background-image: url("../simoji/svg/1f3bc.svg"), none; }
+
+.simoji-mute {
+  background-image: url("../simoji/svg/1f507.svg"), none; }
+
+.simoji-nail-care {
+  background-image: url("../simoji/svg/1f485.svg"), none; }
+
+.simoji-name-badge {
+  background-image: url("../simoji/svg/1f4db.svg"), none; }
+
+.simoji-national-park {
+  background-image: url("../simoji/svg/1f3de.svg"), none; }
+
+.simoji-nauseated-face {
+  background-image: url("../simoji/svg/1f922.svg"), none; }
+
+.simoji-nazar-amulet {
+  background-image: url("../simoji/svg/1f9ff.svg"), none; }
+
+.simoji-necktie {
+  background-image: url("../simoji/svg/1f454.svg"), none; }
+
+.simoji-negative-squared-cross-mark {
+  background-image: url("../simoji/svg/274e.svg"), none; }
+
+.simoji-nerd-face {
+  background-image: url("../simoji/svg/1f913.svg"), none; }
+
+.simoji-neutral-face {
+  background-image: url("../simoji/svg/1f610.svg"), none; }
+
+.simoji-new {
+  background-image: url("../simoji/svg/1f195.svg"), none; }
+
+.simoji-new-moon {
+  background-image: url("../simoji/svg/1f311.svg"), none; }
+
+.simoji-new-moon-with-face {
+  background-image: url("../simoji/svg/1f31a.svg"), none; }
+
+.simoji-newspaper {
+  background-image: url("../simoji/svg/1f4f0.svg"), none; }
+
+.simoji-ng {
+  background-image: url("../simoji/svg/1f196.svg"), none; }
+
+.simoji-night-with-stars {
+  background-image: url("../simoji/svg/1f303.svg"), none; }
+
+.simoji-nine {
+  background-image: url("../simoji/svg/39-20e3.svg"), none; }
+
+.simoji-no-bell {
+  background-image: url("../simoji/svg/1f515.svg"), none; }
+
+.simoji-no-bicycles {
+  background-image: url("../simoji/svg/1f6b3.svg"), none; }
+
+.simoji-no-entry {
+  background-image: url("../simoji/svg/26d4.svg"), none; }
+
+.simoji-no-entry-sign {
+  background-image: url("../simoji/svg/1f6ab.svg"), none; }
+
+.simoji-no-good {
+  background-image: url("../simoji/svg/1f645.svg"), none; }
+
+.simoji-no-mobile-phones {
+  background-image: url("../simoji/svg/1f4f5.svg"), none; }
+
+.simoji-no-mouth {
+  background-image: url("../simoji/svg/1f636.svg"), none; }
+
+.simoji-no-pedestrians {
+  background-image: url("../simoji/svg/1f6b7.svg"), none; }
+
+.simoji-no-smoking {
+  background-image: url("../simoji/svg/1f6ad.svg"), none; }
+
+.simoji-non-potable-water {
+  background-image: url("../simoji/svg/1f6b1.svg"), none; }
+
+.simoji-nose {
+  background-image: url("../simoji/svg/1f443.svg"), none; }
+
+.simoji-notebook {
+  background-image: url("../simoji/svg/1f4d3.svg"), none; }
+
+.simoji-notebook-with-decorative-cover {
+  background-image: url("../simoji/svg/1f4d4.svg"), none; }
+
+.simoji-notes {
+  background-image: url("../simoji/svg/1f3b6.svg"), none; }
+
+.simoji-nut-and-bolt {
+  background-image: url("../simoji/svg/1f529.svg"), none; }
+
+.simoji-o {
+  background-image: url("../simoji/svg/2b55.svg"), none; }
+
+.simoji-o2 {
+  background-image: url("../simoji/svg/1f17e.svg"), none; }
+
+.simoji-ocean {
+  background-image: url("../simoji/svg/1f30a.svg"), none; }
+
+.simoji-octagonal-sign {
+  background-image: url("../simoji/svg/1f6d1.svg"), none; }
+
+.simoji-octopus {
+  background-image: url("../simoji/svg/1f419.svg"), none; }
+
+.simoji-oden {
+  background-image: url("../simoji/svg/1f362.svg"), none; }
+
+.simoji-office {
+  background-image: url("../simoji/svg/1f3e2.svg"), none; }
+
+.simoji-oil-drum {
+  background-image: url("../simoji/svg/1f6e2.svg"), none; }
+
+.simoji-ok {
+  background-image: url("../simoji/svg/1f197.svg"), none; }
+
+.simoji-ok-hand {
+  background-image: url("../simoji/svg/1f44c.svg"), none; }
+
+.simoji-ok-woman {
+  background-image: url("../simoji/svg/1f646.svg"), none; }
+
+.simoji-old-key {
+  background-image: url("../simoji/svg/1f5dd.svg"), none; }
+
+.simoji-older-adult {
+  background-image: url("../simoji/svg/1f9d3.svg"), none; }
+
+.simoji-older-man {
+  background-image: url("../simoji/svg/1f474.svg"), none; }
+
+.simoji-older-woman {
+  background-image: url("../simoji/svg/1f475.svg"), none; }
+
+.simoji-om-symbol {
+  background-image: url("../simoji/svg/1f549.svg"), none; }
+
+.simoji-on {
+  background-image: url("../simoji/svg/1f51b.svg"), none; }
+
+.simoji-oncoming-automobile {
+  background-image: url("../simoji/svg/1f698.svg"), none; }
+
+.simoji-oncoming-bus {
+  background-image: url("../simoji/svg/1f68d.svg"), none; }
+
+.simoji-oncoming-police-car {
+  background-image: url("../simoji/svg/1f694.svg"), none; }
+
+.simoji-oncoming-taxi {
+  background-image: url("../simoji/svg/1f696.svg"), none; }
+
+.simoji-one {
+  background-image: url("../simoji/svg/31-20e3.svg"), none; }
+
+.simoji-open-file-folder {
+  background-image: url("../simoji/svg/1f4c2.svg"), none; }
+
+.simoji-open-hands {
+  background-image: url("../simoji/svg/1f450.svg"), none; }
+
+.simoji-open-mouth {
+  background-image: url("../simoji/svg/1f62e.svg"), none; }
+
+.simoji-ophiuchus {
+  background-image: url("../simoji/svg/26ce.svg"), none; }
+
+.simoji-orange-book {
+  background-image: url("../simoji/svg/1f4d9.svg"), none; }
+
+.simoji-orange-heart {
+  background-image: url("../simoji/svg/1f9e1.svg"), none; }
+
+.simoji-orthodox-cross {
+  background-image: url("../simoji/svg/2626.svg"), none; }
+
+.simoji-outbox-tray {
+  background-image: url("../simoji/svg/1f4e4.svg"), none; }
+
+.simoji-owl {
+  background-image: url("../simoji/svg/1f989.svg"), none; }
+
+.simoji-ox {
+  background-image: url("../simoji/svg/1f402.svg"), none; }
+
+.simoji-package {
+  background-image: url("../simoji/svg/1f4e6.svg"), none; }
+
+.simoji-page-facing-up {
+  background-image: url("../simoji/svg/1f4c4.svg"), none; }
+
+.simoji-page-with-curl {
+  background-image: url("../simoji/svg/1f4c3.svg"), none; }
+
+.simoji-pager {
+  background-image: url("../simoji/svg/1f4df.svg"), none; }
+
+.simoji-palm-tree {
+  background-image: url("../simoji/svg/1f334.svg"), none; }
+
+.simoji-palms-up-together {
+  background-image: url("../simoji/svg/1f932.svg"), none; }
+
+.simoji-pancakes {
+  background-image: url("../simoji/svg/1f95e.svg"), none; }
+
+.simoji-panda-face {
+  background-image: url("../simoji/svg/1f43c.svg"), none; }
+
+.simoji-paperclip {
+  background-image: url("../simoji/svg/1f4ce.svg"), none; }
+
+.simoji-parking {
+  background-image: url("../simoji/svg/1f17f.svg"), none; }
+
+.simoji-parrot {
+  background-image: url("../simoji/svg/1f99c.svg"), none; }
+
+.simoji-part-alternation-mark {
+  background-image: url("../simoji/svg/303d.svg"), none; }
+
+.simoji-partly-sunny {
+  background-image: url("../simoji/svg/26c5.svg"), none; }
+
+.simoji-partly-sunny-rain-sun-behind-rain-cloud {
+  background-image: url("../simoji/svg/1f326.svg"), none; }
+
+.simoji-partying-face {
+  background-image: url("../simoji/svg/1f973.svg"), none; }
+
+.simoji-passenger-ship {
+  background-image: url("../simoji/svg/1f6f3.svg"), none; }
+
+.simoji-passport-control {
+  background-image: url("../simoji/svg/1f6c2.svg"), none; }
+
+.simoji-peace-symbol {
+  background-image: url("../simoji/svg/262e.svg"), none; }
+
+.simoji-peach {
+  background-image: url("../simoji/svg/1f351.svg"), none; }
+
+.simoji-peacock {
+  background-image: url("../simoji/svg/1f99a.svg"), none; }
+
+.simoji-peanuts {
+  background-image: url("../simoji/svg/1f95c.svg"), none; }
+
+.simoji-pear {
+  background-image: url("../simoji/svg/1f350.svg"), none; }
+
+.simoji-pencil2 {
+  background-image: url("../simoji/svg/270f.svg"), none; }
+
+.simoji-penguin {
+  background-image: url("../simoji/svg/1f427.svg"), none; }
+
+.simoji-pensive {
+  background-image: url("../simoji/svg/1f614.svg"), none; }
+
+.simoji-performing-arts {
+  background-image: url("../simoji/svg/1f3ad.svg"), none; }
+
+.simoji-persevere {
+  background-image: url("../simoji/svg/1f623.svg"), none; }
+
+.simoji-person-climbing {
+  background-image: url("../simoji/svg/1f9d7.svg"), none; }
+
+.simoji-person-doing-cartwheel {
+  background-image: url("../simoji/svg/1f938.svg"), none; }
+
+.simoji-person-frowning {
+  background-image: url("../simoji/svg/1f64d.svg"), none; }
+
+.simoji-person-in-lotus-position {
+  background-image: url("../simoji/svg/1f9d8.svg"), none; }
+
+.simoji-person-in-steamy-room {
+  background-image: url("../simoji/svg/1f9d6.svg"), none; }
+
+.simoji-person-with-ball {
+  background-image: url("../simoji/svg/26f9.svg"), none; }
+
+.simoji-person-with-blond-hair {
+  background-image: url("../simoji/svg/1f471.svg"), none; }
+
+.simoji-person-with-headscarf {
+  background-image: url("../simoji/svg/1f9d5.svg"), none; }
+
+.simoji-person-with-pouting-face {
+  background-image: url("../simoji/svg/1f64e.svg"), none; }
+
+.simoji-petri-dish {
+  background-image: url("../simoji/svg/1f9eb.svg"), none; }
+
+.simoji-phone-telephone {
+  background-image: url("../simoji/svg/260e.svg"), none; }
+
+.simoji-pick {
+  background-image: url("../simoji/svg/26cf.svg"), none; }
+
+.simoji-pie {
+  background-image: url("../simoji/svg/1f967.svg"), none; }
+
+.simoji-pig {
+  background-image: url("../simoji/svg/1f437.svg"), none; }
+
+.simoji-pig2 {
+  background-image: url("../simoji/svg/1f416.svg"), none; }
+
+.simoji-pig-nose {
+  background-image: url("../simoji/svg/1f43d.svg"), none; }
+
+.simoji-pill {
+  background-image: url("../simoji/svg/1f48a.svg"), none; }
+
+.simoji-pineapple {
+  background-image: url("../simoji/svg/1f34d.svg"), none; }
+
+.simoji-pirate-flag {
+  background-image: url("../simoji/svg/1f3f4-200d-2620-fe0f.svg"), none; }
+
+.simoji-pisces {
+  background-image: url("../simoji/svg/2653.svg"), none; }
+
+.simoji-pizza {
+  background-image: url("../simoji/svg/1f355.svg"), none; }
+
+.simoji-place-of-worship {
+  background-image: url("../simoji/svg/1f6d0.svg"), none; }
+
+.simoji-pleading-face {
+  background-image: url("../simoji/svg/1f97a.svg"), none; }
+
+.simoji-point-down {
+  background-image: url("../simoji/svg/1f447.svg"), none; }
+
+.simoji-point-left {
+  background-image: url("../simoji/svg/1f448.svg"), none; }
+
+.simoji-point-right {
+  background-image: url("../simoji/svg/1f449.svg"), none; }
+
+.simoji-point-up {
+  background-image: url("../simoji/svg/261d.svg"), none; }
+
+.simoji-point-up-2 {
+  background-image: url("../simoji/svg/1f446.svg"), none; }
+
+.simoji-police-car {
+  background-image: url("../simoji/svg/1f693.svg"), none; }
+
+.simoji-poodle {
+  background-image: url("../simoji/svg/1f429.svg"), none; }
+
+.simoji-popcorn {
+  background-image: url("../simoji/svg/1f37f.svg"), none; }
+
+.simoji-post-office {
+  background-image: url("../simoji/svg/1f3e3.svg"), none; }
+
+.simoji-postal-horn {
+  background-image: url("../simoji/svg/1f4ef.svg"), none; }
+
+.simoji-postbox {
+  background-image: url("../simoji/svg/1f4ee.svg"), none; }
+
+.simoji-potable-water {
+  background-image: url("../simoji/svg/1f6b0.svg"), none; }
+
+.simoji-potato {
+  background-image: url("../simoji/svg/1f954.svg"), none; }
+
+.simoji-pouch {
+  background-image: url("../simoji/svg/1f45d.svg"), none; }
+
+.simoji-poultry-leg {
+  background-image: url("../simoji/svg/1f357.svg"), none; }
+
+.simoji-pound {
+  background-image: url("../simoji/svg/1f4b7.svg"), none; }
+
+.simoji-pouting-cat {
+  background-image: url("../simoji/svg/1f63e.svg"), none; }
+
+.simoji-pray {
+  background-image: url("../simoji/svg/1f64f.svg"), none; }
+
+.simoji-prayer-beads {
+  background-image: url("../simoji/svg/1f4ff.svg"), none; }
+
+.simoji-pregnant-woman {
+  background-image: url("../simoji/svg/1f930.svg"), none; }
+
+.simoji-pretzel {
+  background-image: url("../simoji/svg/1f968.svg"), none; }
+
+.simoji-prince {
+  background-image: url("../simoji/svg/1f934.svg"), none; }
+
+.simoji-princess {
+  background-image: url("../simoji/svg/1f478.svg"), none; }
+
+.simoji-printer {
+  background-image: url("../simoji/svg/1f5a8.svg"), none; }
+
+.simoji-purple-heart {
+  background-image: url("../simoji/svg/1f49c.svg"), none; }
+
+.simoji-purse {
+  background-image: url("../simoji/svg/1f45b.svg"), none; }
+
+.simoji-pushpin {
+  background-image: url("../simoji/svg/1f4cc.svg"), none; }
+
+.simoji-put-litter-in-its-place {
+  background-image: url("../simoji/svg/1f6ae.svg"), none; }
+
+.simoji-question {
+  background-image: url("../simoji/svg/2753.svg"), none; }
+
+.simoji-rabbit {
+  background-image: url("../simoji/svg/1f430.svg"), none; }
+
+.simoji-rabbit2 {
+  background-image: url("../simoji/svg/1f407.svg"), none; }
+
+.simoji-raccoon {
+  background-image: url("../simoji/svg/1f99d.svg"), none; }
+
+.simoji-racehorse {
+  background-image: url("../simoji/svg/1f40e.svg"), none; }
+
+.simoji-racing-car {
+  background-image: url("../simoji/svg/1f3ce.svg"), none; }
+
+.simoji-racing-motorcycle {
+  background-image: url("../simoji/svg/1f3cd.svg"), none; }
+
+.simoji-radio {
+  background-image: url("../simoji/svg/1f4fb.svg"), none; }
+
+.simoji-radio-button {
+  background-image: url("../simoji/svg/1f518.svg"), none; }
+
+.simoji-radioactive-sign {
+  background-image: url("../simoji/svg/2622.svg"), none; }
+
+.simoji-rage {
+  background-image: url("../simoji/svg/1f621.svg"), none; }
+
+.simoji-railway-car {
+  background-image: url("../simoji/svg/1f683.svg"), none; }
+
+.simoji-railway-track {
+  background-image: url("../simoji/svg/1f6e4.svg"), none; }
+
+.simoji-rain-cloud {
+  background-image: url("../simoji/svg/1f327.svg"), none; }
+
+.simoji-rainbow {
+  background-image: url("../simoji/svg/1f308.svg"), none; }
+
+.simoji-rainbow-flag {
+  background-image: url("../simoji/svg/1f3f3-fe0f-200d-1f308.svg"), none; }
+
+.simoji-raised-back-of-hand {
+  background-image: url("../simoji/svg/1f91a.svg"), none; }
+
+.simoji-raised-hand-with-fingers-splayed {
+  background-image: url("../simoji/svg/1f590.svg"), none; }
+
+.simoji-raised-hands {
+  background-image: url("../simoji/svg/1f64c.svg"), none; }
+
+.simoji-raising-hand {
+  background-image: url("../simoji/svg/1f64b.svg"), none; }
+
+.simoji-ram {
+  background-image: url("../simoji/svg/1f40f.svg"), none; }
+
+.simoji-ramen {
+  background-image: url("../simoji/svg/1f35c.svg"), none; }
+
+.simoji-rat {
+  background-image: url("../simoji/svg/1f400.svg"), none; }
+
+.simoji-receipt {
+  background-image: url("../simoji/svg/1f9fe.svg"), none; }
+
+.simoji-recycle {
+  background-image: url("../simoji/svg/267b.svg"), none; }
+
+.simoji-red-circle {
+  background-image: url("../simoji/svg/1f534.svg"), none; }
+
+.simoji-red-envelope {
+  background-image: url("../simoji/svg/1f9e7.svg"), none; }
+
+.simoji-registered {
+  background-image: url("../simoji/svg/ae.svg"), none; }
+
+.simoji-relaxed {
+  background-image: url("../simoji/svg/263a.svg"), none; }
+
+.simoji-relieved {
+  background-image: url("../simoji/svg/1f60c.svg"), none; }
+
+.simoji-reminder-ribbon {
+  background-image: url("../simoji/svg/1f397.svg"), none; }
+
+.simoji-repeat {
+  background-image: url("../simoji/svg/1f501.svg"), none; }
+
+.simoji-repeat-one {
+  background-image: url("../simoji/svg/1f502.svg"), none; }
+
+.simoji-restroom {
+  background-image: url("../simoji/svg/1f6bb.svg"), none; }
+
+.simoji-revolving-hearts {
+  background-image: url("../simoji/svg/1f49e.svg"), none; }
+
+.simoji-rewind {
+  background-image: url("../simoji/svg/23ea.svg"), none; }
+
+.simoji-rhinoceros {
+  background-image: url("../simoji/svg/1f98f.svg"), none; }
+
+.simoji-ribbon {
+  background-image: url("../simoji/svg/1f380.svg"), none; }
+
+.simoji-rice {
+  background-image: url("../simoji/svg/1f35a.svg"), none; }
+
+.simoji-rice-ball {
+  background-image: url("../simoji/svg/1f359.svg"), none; }
+
+.simoji-rice-cracker {
+  background-image: url("../simoji/svg/1f358.svg"), none; }
+
+.simoji-rice-scene {
+  background-image: url("../simoji/svg/1f391.svg"), none; }
+
+.simoji-right-facing-fist {
+  background-image: url("../simoji/svg/1f91c.svg"), none; }
+
+.simoji-right-anger-bubble {
+  background-image: url("../simoji/svg/1f5ef.svg"), none; }
+
+.simoji-ring {
+  background-image: url("../simoji/svg/1f48d.svg"), none; }
+
+.simoji-robot-face {
+  background-image: url("../simoji/svg/1f916.svg"), none; }
+
+.simoji-rocket {
+  background-image: url("../simoji/svg/1f680.svg"), none; }
+
+.simoji-roll-of-paper {
+  background-image: url("../simoji/svg/1f9fb.svg"), none; }
+
+.simoji-rolled-up-newspaper {
+  background-image: url("../simoji/svg/1f5de.svg"), none; }
+
+.simoji-roller-coaster {
+  background-image: url("../simoji/svg/1f3a2.svg"), none; }
+
+.simoji-rolling-on-the-floor-laughing {
+  background-image: url("../simoji/svg/1f923.svg"), none; }
+
+.simoji-rooster {
+  background-image: url("../simoji/svg/1f413.svg"), none; }
+
+.simoji-rose {
+  background-image: url("../simoji/svg/1f339.svg"), none; }
+
+.simoji-rosette {
+  background-image: url("../simoji/svg/1f3f5.svg"), none; }
+
+.simoji-rotating-light {
+  background-image: url("../simoji/svg/1f6a8.svg"), none; }
+
+.simoji-round-pushpin {
+  background-image: url("../simoji/svg/1f4cd.svg"), none; }
+
+.simoji-rowboat {
+  background-image: url("../simoji/svg/1f6a3.svg"), none; }
+
+.simoji-ru-flag-ru {
+  background-image: url("../simoji/svg/1f1f7-1f1fa.svg"), none; }
+
+.simoji-rugby-football {
+  background-image: url("../simoji/svg/1f3c9.svg"), none; }
+
+.simoji-runner-running {
+  background-image: url("../simoji/svg/1f3c3.svg"), none; }
+
+.simoji-running-shirt-with-sash {
+  background-image: url("../simoji/svg/1f3bd.svg"), none; }
+
+.simoji-sa {
+  background-image: url("../simoji/svg/1f202.svg"), none; }
+
+.simoji-safety-pin {
+  background-image: url("../simoji/svg/1f9f7.svg"), none; }
+
+.simoji-sagittarius {
+  background-image: url("../simoji/svg/2650.svg"), none; }
+
+.simoji-sake {
+  background-image: url("../simoji/svg/1f376.svg"), none; }
+
+.simoji-salt {
+  background-image: url("../simoji/svg/1f9c2.svg"), none; }
+
+.simoji-sandal {
+  background-image: url("../simoji/svg/1f461.svg"), none; }
+
+.simoji-sandwich {
+  background-image: url("../simoji/svg/1f96a.svg"), none; }
+
+.simoji-santa {
+  background-image: url("../simoji/svg/1f385.svg"), none; }
+
+.simoji-satellite {
+  background-image: url("../simoji/svg/1f6f0.svg"), none; }
+
+.simoji-satellite-antenna {
+  background-image: url("../simoji/svg/1f4e1.svg"), none; }
+
+.simoji-sauropod {
+  background-image: url("../simoji/svg/1f995.svg"), none; }
+
+.simoji-saxophone {
+  background-image: url("../simoji/svg/1f3b7.svg"), none; }
+
+.simoji-scales {
+  background-image: url("../simoji/svg/2696.svg"), none; }
+
+.simoji-scarf {
+  background-image: url("../simoji/svg/1f9e3.svg"), none; }
+
+.simoji-school {
+  background-image: url("../simoji/svg/1f3eb.svg"), none; }
+
+.simoji-school-satchel {
+  background-image: url("../simoji/svg/1f392.svg"), none; }
+
+.simoji-scissors {
+  background-image: url("../simoji/svg/2702.svg"), none; }
+
+.simoji-scooter {
+  background-image: url("../simoji/svg/1f6f4.svg"), none; }
+
+.simoji-scorpion {
+  background-image: url("../simoji/svg/1f982.svg"), none; }
+
+.simoji-scorpius {
+  background-image: url("../simoji/svg/264f.svg"), none; }
+
+.simoji-scream {
+  background-image: url("../simoji/svg/1f631.svg"), none; }
+
+.simoji-scream-cat {
+  background-image: url("../simoji/svg/1f640.svg"), none; }
+
+.simoji-scroll {
+  background-image: url("../simoji/svg/1f4dc.svg"), none; }
+
+.simoji-seat {
+  background-image: url("../simoji/svg/1f4ba.svg"), none; }
+
+.simoji-second-place-medal {
+  background-image: url("../simoji/svg/1f948.svg"), none; }
+
+.simoji-secret {
+  background-image: url("../simoji/svg/3299.svg"), none; }
+
+.simoji-see-no-evil {
+  background-image: url("../simoji/svg/1f648.svg"), none; }
+
+.simoji-seedling {
+  background-image: url("../simoji/svg/1f331.svg"), none; }
+
+.simoji-selfie {
+  background-image: url("../simoji/svg/1f933.svg"), none; }
+
+.simoji-seven {
+  background-image: url("../simoji/svg/37-20e3.svg"), none; }
+
+.simoji-shallow-pan-of-food {
+  background-image: url("../simoji/svg/1f958.svg"), none; }
+
+.simoji-shamrock {
+  background-image: url("../simoji/svg/2618.svg"), none; }
+
+.simoji-shark {
+  background-image: url("../simoji/svg/1f988.svg"), none; }
+
+.simoji-shaved-ice {
+  background-image: url("../simoji/svg/1f367.svg"), none; }
+
+.simoji-sheep {
+  background-image: url("../simoji/svg/1f411.svg"), none; }
+
+.simoji-shell {
+  background-image: url("../simoji/svg/1f41a.svg"), none; }
+
+.simoji-shield {
+  background-image: url("../simoji/svg/1f6e1.svg"), none; }
+
+.simoji-shinto-shrine {
+  background-image: url("../simoji/svg/26e9.svg"), none; }
+
+.simoji-ship {
+  background-image: url("../simoji/svg/1f6a2.svg"), none; }
+
+.simoji-shirt-tshirt {
+  background-image: url("../simoji/svg/1f455.svg"), none; }
+
+.simoji-shopping-bags {
+  background-image: url("../simoji/svg/1f6cd.svg"), none; }
+
+.simoji-shopping-trolley {
+  background-image: url("../simoji/svg/1f6d2.svg"), none; }
+
+.simoji-shower {
+  background-image: url("../simoji/svg/1f6bf.svg"), none; }
+
+.simoji-shrimp {
+  background-image: url("../simoji/svg/1f990.svg"), none; }
+
+.simoji-shrug {
+  background-image: url("../simoji/svg/1f937.svg"), none; }
+
+.simoji-shushing-face-face-with-finger-covering-closed-lips {
+  background-image: url("../simoji/svg/1f92b.svg"), none; }
+
+.simoji-signal-strength {
+  background-image: url("../simoji/svg/1f4f6.svg"), none; }
+
+.simoji-six {
+  background-image: url("../simoji/svg/36-20e3.svg"), none; }
+
+.simoji-six-pointed-star {
+  background-image: url("../simoji/svg/1f52f.svg"), none; }
+
+.simoji-skateboard {
+  background-image: url("../simoji/svg/1f6f9.svg"), none; }
+
+.simoji-ski {
+  background-image: url("../simoji/svg/1f3bf.svg"), none; }
+
+.simoji-skier {
+  background-image: url("../simoji/svg/26f7.svg"), none; }
+
+.simoji-skin-tone-2 {
+  background-image: url("../simoji/svg/1f3fb.svg"), none; }
+
+.simoji-skin-tone-3 {
+  background-image: url("../simoji/svg/1f3fc.svg"), none; }
+
+.simoji-skin-tone-4 {
+  background-image: url("../simoji/svg/1f3fd.svg"), none; }
+
+.simoji-skin-tone-5 {
+  background-image: url("../simoji/svg/1f3fe.svg"), none; }
+
+.simoji-skin-tone-6 {
+  background-image: url("../simoji/svg/1f3ff.svg"), none; }
+
+.simoji-skull {
+  background-image: url("../simoji/svg/1f480.svg"), none; }
+
+.simoji-skull-and-crossbones {
+  background-image: url("../simoji/svg/2620.svg"), none; }
+
+.simoji-sled {
+  background-image: url("../simoji/svg/1f6f7.svg"), none; }
+
+.simoji-sleeping {
+  background-image: url("../simoji/svg/1f634.svg"), none; }
+
+.simoji-sleeping-accommodation {
+  background-image: url("../simoji/svg/1f6cc.svg"), none; }
+
+.simoji-sleepy {
+  background-image: url("../simoji/svg/1f62a.svg"), none; }
+
+.simoji-sleuth-or-spy {
+  background-image: url("../simoji/svg/1f575.svg"), none; }
+
+.simoji-slightly-frowning-face {
+  background-image: url("../simoji/svg/1f641.svg"), none; }
+
+.simoji-slightly-smiling-face {
+  background-image: url("../simoji/svg/1f642.svg"), none; }
+
+.simoji-slot-machine {
+  background-image: url("../simoji/svg/1f3b0.svg"), none; }
+
+.simoji-small-airplane {
+  background-image: url("../simoji/svg/1f6e9.svg"), none; }
+
+.simoji-small-blue-diamond {
+  background-image: url("../simoji/svg/1f539.svg"), none; }
+
+.simoji-small-orange-diamond {
+  background-image: url("../simoji/svg/1f538.svg"), none; }
+
+.simoji-small-red-triangle {
+  background-image: url("../simoji/svg/1f53a.svg"), none; }
+
+.simoji-small-red-triangle-down {
+  background-image: url("../simoji/svg/1f53b.svg"), none; }
+
+.simoji-smile {
+  background-image: url("../simoji/svg/1f604.svg"), none; }
+
+.simoji-smile-cat {
+  background-image: url("../simoji/svg/1f638.svg"), none; }
+
+.simoji-smiley {
+  background-image: url("../simoji/svg/1f603.svg"), none; }
+
+.simoji-smiley-cat {
+  background-image: url("../simoji/svg/1f63a.svg"), none; }
+
+.simoji-smiling-face-with-3-hearts {
+  background-image: url("../simoji/svg/1f970.svg"), none; }
+
+.simoji-smiling-imp {
+  background-image: url("../simoji/svg/1f608.svg"), none; }
+
+.simoji-smirk {
+  background-image: url("../simoji/svg/1f60f.svg"), none; }
+
+.simoji-smirk-cat {
+  background-image: url("../simoji/svg/1f63c.svg"), none; }
+
+.simoji-smoking {
+  background-image: url("../simoji/svg/1f6ac.svg"), none; }
+
+.simoji-snail {
+  background-image: url("../simoji/svg/1f40c.svg"), none; }
+
+.simoji-snake {
+  background-image: url("../simoji/svg/1f40d.svg"), none; }
+
+.simoji-sneezing-face {
+  background-image: url("../simoji/svg/1f927.svg"), none; }
+
+.simoji-snow-capped-mountain {
+  background-image: url("../simoji/svg/1f3d4.svg"), none; }
+
+.simoji-snow-cloud {
+  background-image: url("../simoji/svg/1f328.svg"), none; }
+
+.simoji-snowboarder {
+  background-image: url("../simoji/svg/1f3c2.svg"), none; }
+
+.simoji-snowflake {
+  background-image: url("../simoji/svg/2744.svg"), none; }
+
+.simoji-snowman {
+  background-image: url("../simoji/svg/2603.svg"), none; }
+
+.simoji-snowman-without-snow {
+  background-image: url("../simoji/svg/26c4.svg"), none; }
+
+.simoji-soap {
+  background-image: url("../simoji/svg/1f9fc.svg"), none; }
+
+.simoji-sob {
+  background-image: url("../simoji/svg/1f62d.svg"), none; }
+
+.simoji-soccer {
+  background-image: url("../simoji/svg/26bd.svg"), none; }
+
+.simoji-socks {
+  background-image: url("../simoji/svg/1f9e6.svg"), none; }
+
+.simoji-softball {
+  background-image: url("../simoji/svg/1f94e.svg"), none; }
+
+.simoji-soon {
+  background-image: url("../simoji/svg/1f51c.svg"), none; }
+
+.simoji-sos {
+  background-image: url("../simoji/svg/1f198.svg"), none; }
+
+.simoji-sound {
+  background-image: url("../simoji/svg/1f509.svg"), none; }
+
+.simoji-space-invader {
+  background-image: url("../simoji/svg/1f47e.svg"), none; }
+
+.simoji-spades {
+  background-image: url("../simoji/svg/2660.svg"), none; }
+
+.simoji-spaghetti {
+  background-image: url("../simoji/svg/1f35d.svg"), none; }
+
+.simoji-sparkle {
+  background-image: url("../simoji/svg/2747.svg"), none; }
+
+.simoji-sparkler {
+  background-image: url("../simoji/svg/1f387.svg"), none; }
+
+.simoji-sparkles {
+  background-image: url("../simoji/svg/2728.svg"), none; }
+
+.simoji-sparkling-heart {
+  background-image: url("../simoji/svg/1f496.svg"), none; }
+
+.simoji-speak-no-evil {
+  background-image: url("../simoji/svg/1f64a.svg"), none; }
+
+.simoji-speaker {
+  background-image: url("../simoji/svg/1f508.svg"), none; }
+
+.simoji-speaking-head-in-silhouette {
+  background-image: url("../simoji/svg/1f5e3.svg"), none; }
+
+.simoji-speech-balloon {
+  background-image: url("../simoji/svg/1f4ac.svg"), none; }
+
+.simoji-speedboat {
+  background-image: url("../simoji/svg/1f6a4.svg"), none; }
+
+.simoji-spider {
+  background-image: url("../simoji/svg/1f577.svg"), none; }
+
+.simoji-spider-web {
+  background-image: url("../simoji/svg/1f578.svg"), none; }
+
+.simoji-spiral-calendar-pad {
+  background-image: url("../simoji/svg/1f5d3.svg"), none; }
+
+.simoji-spiral-note-pad {
+  background-image: url("../simoji/svg/1f5d2.svg"), none; }
+
+.simoji-spock-hand {
+  background-image: url("../simoji/svg/1f596.svg"), none; }
+
+.simoji-sponge {
+  background-image: url("../simoji/svg/1f9fd.svg"), none; }
+
+.simoji-spoon {
+  background-image: url("../simoji/svg/1f944.svg"), none; }
+
+.simoji-sports-medal {
+  background-image: url("../simoji/svg/1f3c5.svg"), none; }
+
+.simoji-squid {
+  background-image: url("../simoji/svg/1f991.svg"), none; }
+
+.simoji-stadium {
+  background-image: url("../simoji/svg/1f3df.svg"), none; }
+
+.simoji-star {
+  background-image: url("../simoji/svg/2b50.svg"), none; }
+
+.simoji-star-struck-grinning-face-with-star-eyes {
+  background-image: url("../simoji/svg/1f929.svg"), none; }
+
+.simoji-star2 {
+  background-image: url("../simoji/svg/1f31f.svg"), none; }
+
+.simoji-star-and-crescent {
+  background-image: url("../simoji/svg/262a.svg"), none; }
+
+.simoji-star-of-david {
+  background-image: url("../simoji/svg/2721.svg"), none; }
+
+.simoji-stars {
+  background-image: url("../simoji/svg/1f320.svg"), none; }
+
+.simoji-station {
+  background-image: url("../simoji/svg/1f689.svg"), none; }
+
+.simoji-statue-of-liberty {
+  background-image: url("../simoji/svg/1f5fd.svg"), none; }
+
+.simoji-steam-locomotive {
+  background-image: url("../simoji/svg/1f682.svg"), none; }
+
+.simoji-stew {
+  background-image: url("../simoji/svg/1f372.svg"), none; }
+
+.simoji-stopwatch {
+  background-image: url("../simoji/svg/23f1.svg"), none; }
+
+.simoji-straight-ruler {
+  background-image: url("../simoji/svg/1f4cf.svg"), none; }
+
+.simoji-strawberry {
+  background-image: url("../simoji/svg/1f353.svg"), none; }
+
+.simoji-stuck-out-tongue {
+  background-image: url("../simoji/svg/1f61b.svg"), none; }
+
+.simoji-stuck-out-tongue-closed-eyes {
+  background-image: url("../simoji/svg/1f61d.svg"), none; }
+
+.simoji-stuck-out-tongue-winking-eye {
+  background-image: url("../simoji/svg/1f61c.svg"), none; }
+
+.simoji-studio-microphone {
+  background-image: url("../simoji/svg/1f399.svg"), none; }
+
+.simoji-stuffed-flatbread {
+  background-image: url("../simoji/svg/1f959.svg"), none; }
+
+.simoji-sun-with-face {
+  background-image: url("../simoji/svg/1f31e.svg"), none; }
+
+.simoji-sunflower {
+  background-image: url("../simoji/svg/1f33b.svg"), none; }
+
+.simoji-sunglasses {
+  background-image: url("../simoji/svg/1f60e.svg"), none; }
+
+.simoji-sunny {
+  background-image: url("../simoji/svg/2600.svg"), none; }
+
+.simoji-sunrise {
+  background-image: url("../simoji/svg/1f305.svg"), none; }
+
+.simoji-sunrise-over-mountains {
+  background-image: url("../simoji/svg/1f304.svg"), none; }
+
+.simoji-surfer {
+  background-image: url("../simoji/svg/1f3c4.svg"), none; }
+
+.simoji-sushi {
+  background-image: url("../simoji/svg/1f363.svg"), none; }
+
+.simoji-suspension-railway {
+  background-image: url("../simoji/svg/1f69f.svg"), none; }
+
+.simoji-swan {
+  background-image: url("../simoji/svg/1f9a2.svg"), none; }
+
+.simoji-sweat {
+  background-image: url("../simoji/svg/1f613.svg"), none; }
+
+.simoji-sweat-drops {
+  background-image: url("../simoji/svg/1f4a6.svg"), none; }
+
+.simoji-sweat-smile {
+  background-image: url("../simoji/svg/1f605.svg"), none; }
+
+.simoji-sweet-potato {
+  background-image: url("../simoji/svg/1f360.svg"), none; }
+
+.simoji-swimmer {
+  background-image: url("../simoji/svg/1f3ca.svg"), none; }
+
+.simoji-symbols {
+  background-image: url("../simoji/svg/1f523.svg"), none; }
+
+.simoji-synagogue {
+  background-image: url("../simoji/svg/1f54d.svg"), none; }
+
+.simoji-syringe {
+  background-image: url("../simoji/svg/1f489.svg"), none; }
+
+.simoji-t-rex {
+  background-image: url("../simoji/svg/1f996.svg"), none; }
+
+.simoji-table-tennis-paddle-and-ball {
+  background-image: url("../simoji/svg/1f3d3.svg"), none; }
+
+.simoji-taco {
+  background-image: url("../simoji/svg/1f32e.svg"), none; }
+
+.simoji-tada {
+  background-image: url("../simoji/svg/1f389.svg"), none; }
+
+.simoji-takeout-box {
+  background-image: url("../simoji/svg/1f961.svg"), none; }
+
+.simoji-tanabata-tree {
+  background-image: url("../simoji/svg/1f38b.svg"), none; }
+
+.simoji-tangerine {
+  background-image: url("../simoji/svg/1f34a.svg"), none; }
+
+.simoji-taurus {
+  background-image: url("../simoji/svg/2649.svg"), none; }
+
+.simoji-taxi {
+  background-image: url("../simoji/svg/1f695.svg"), none; }
+
+.simoji-tea {
+  background-image: url("../simoji/svg/1f375.svg"), none; }
+
+.simoji-teddy-bear {
+  background-image: url("../simoji/svg/1f9f8.svg"), none; }
+
+.simoji-telephone-receiver {
+  background-image: url("../simoji/svg/1f4de.svg"), none; }
+
+.simoji-telescope {
+  background-image: url("../simoji/svg/1f52d.svg"), none; }
+
+.simoji-tennis {
+  background-image: url("../simoji/svg/1f3be.svg"), none; }
+
+.simoji-tent {
+  background-image: url("../simoji/svg/26fa.svg"), none; }
+
+.simoji-test-tube {
+  background-image: url("../simoji/svg/1f9ea.svg"), none; }
+
+.simoji-the-horns-sign-of-the-horns {
+  background-image: url("../simoji/svg/1f918.svg"), none; }
+
+.simoji-thermometer {
+  background-image: url("../simoji/svg/1f321.svg"), none; }
+
+.simoji-thinking-face {
+  background-image: url("../simoji/svg/1f914.svg"), none; }
+
+.simoji-third-place-medal {
+  background-image: url("../simoji/svg/1f949.svg"), none; }
+
+.simoji-thought-balloon {
+  background-image: url("../simoji/svg/1f4ad.svg"), none; }
+
+.simoji-thread {
+  background-image: url("../simoji/svg/1f9f5.svg"), none; }
+
+.simoji-three {
+  background-image: url("../simoji/svg/33-20e3.svg"), none; }
+
+.simoji-three-button-mouse {
+  background-image: url("../simoji/svg/1f5b1.svg"), none; }
+
+.simoji-thunder-cloud-and-rain {
+  background-image: url("../simoji/svg/26c8.svg"), none; }
+
+.simoji-ticket {
+  background-image: url("../simoji/svg/1f3ab.svg"), none; }
+
+.simoji-tiger {
+  background-image: url("../simoji/svg/1f42f.svg"), none; }
+
+.simoji-tiger2 {
+  background-image: url("../simoji/svg/1f405.svg"), none; }
+
+.simoji-timer-clock {
+  background-image: url("../simoji/svg/23f2.svg"), none; }
+
+.simoji-tired-face {
+  background-image: url("../simoji/svg/1f62b.svg"), none; }
+
+.simoji-tm {
+  background-image: url("../simoji/svg/2122.svg"), none; }
+
+.simoji-toilet {
+  background-image: url("../simoji/svg/1f6bd.svg"), none; }
+
+.simoji-tokyo-tower {
+  background-image: url("../simoji/svg/1f5fc.svg"), none; }
+
+.simoji-tomato {
+  background-image: url("../simoji/svg/1f345.svg"), none; }
+
+.simoji-tongue {
+  background-image: url("../simoji/svg/1f445.svg"), none; }
+
+.simoji-toolbox {
+  background-image: url("../simoji/svg/1f9f0.svg"), none; }
+
+.simoji-tooth {
+  background-image: url("../simoji/svg/1f9b7.svg"), none; }
+
+.simoji-top {
+  background-image: url("../simoji/svg/1f51d.svg"), none; }
+
+.simoji-tophat {
+  background-image: url("../simoji/svg/1f3a9.svg"), none; }
+
+.simoji-tornado-tornado-cloud {
+  background-image: url("../simoji/svg/1f32a.svg"), none; }
+
+.simoji-trackball {
+  background-image: url("../simoji/svg/1f5b2.svg"), none; }
+
+.simoji-tractor {
+  background-image: url("../simoji/svg/1f69c.svg"), none; }
+
+.simoji-traffic-light {
+  background-image: url("../simoji/svg/1f6a5.svg"), none; }
+
+.simoji-train {
+  background-image: url("../simoji/svg/1f68b.svg"), none; }
+
+.simoji-train2 {
+  background-image: url("../simoji/svg/1f686.svg"), none; }
+
+.simoji-tram {
+  background-image: url("../simoji/svg/1f68a.svg"), none; }
+
+.simoji-triangular-flag-on-post {
+  background-image: url("../simoji/svg/1f6a9.svg"), none; }
+
+.simoji-triangular-ruler {
+  background-image: url("../simoji/svg/1f4d0.svg"), none; }
+
+.simoji-trident {
+  background-image: url("../simoji/svg/1f531.svg"), none; }
+
+.simoji-triumph {
+  background-image: url("../simoji/svg/1f624.svg"), none; }
+
+.simoji-trolleybus {
+  background-image: url("../simoji/svg/1f68e.svg"), none; }
+
+.simoji-trophy {
+  background-image: url("../simoji/svg/1f3c6.svg"), none; }
+
+.simoji-tropical-drink {
+  background-image: url("../simoji/svg/1f379.svg"), none; }
+
+.simoji-tropical-fish {
+  background-image: url("../simoji/svg/1f420.svg"), none; }
+
+.simoji-truck {
+  background-image: url("../simoji/svg/1f69a.svg"), none; }
+
+.simoji-trumpet {
+  background-image: url("../simoji/svg/1f3ba.svg"), none; }
+
+.simoji-tulip {
+  background-image: url("../simoji/svg/1f337.svg"), none; }
+
+.simoji-tumbler-glass {
+  background-image: url("../simoji/svg/1f943.svg"), none; }
+
+.simoji-turkey {
+  background-image: url("../simoji/svg/1f983.svg"), none; }
+
+.simoji-turtle {
+  background-image: url("../simoji/svg/1f422.svg"), none; }
+
+.simoji-tv {
+  background-image: url("../simoji/svg/1f4fa.svg"), none; }
+
+.simoji-twisted-rightwards-arrows {
+  background-image: url("../simoji/svg/1f500.svg"), none; }
+
+.simoji-two {
+  background-image: url("../simoji/svg/32-20e3.svg"), none; }
+
+.simoji-two-hearts {
+  background-image: url("../simoji/svg/1f495.svg"), none; }
+
+.simoji-two-men-holding-hands {
+  background-image: url("../simoji/svg/1f46c.svg"), none; }
+
+.simoji-two-women-holding-hands {
+  background-image: url("../simoji/svg/1f46d.svg"), none; }
+
+.simoji-u5272 {
+  background-image: url("../simoji/svg/1f239.svg"), none; }
+
+.simoji-u5408 {
+  background-image: url("../simoji/svg/1f234.svg"), none; }
+
+.simoji-u55b6 {
+  background-image: url("../simoji/svg/1f23a.svg"), none; }
+
+.simoji-u6307 {
+  background-image: url("../simoji/svg/1f22f.svg"), none; }
+
+.simoji-u6708 {
+  background-image: url("../simoji/svg/1f237.svg"), none; }
+
+.simoji-u6709 {
+  background-image: url("../simoji/svg/1f236.svg"), none; }
+
+.simoji-u6e80 {
+  background-image: url("../simoji/svg/1f235.svg"), none; }
+
+.simoji-u7121 {
+  background-image: url("../simoji/svg/1f21a.svg"), none; }
+
+.simoji-u7533 {
+  background-image: url("../simoji/svg/1f238.svg"), none; }
+
+.simoji-u7981 {
+  background-image: url("../simoji/svg/1f232.svg"), none; }
+
+.simoji-u7a7a {
+  background-image: url("../simoji/svg/1f233.svg"), none; }
+
+.simoji-umbrella {
+  background-image: url("../simoji/svg/2602.svg"), none; }
+
+.simoji-umbrella-on-ground {
+  background-image: url("../simoji/svg/26f1.svg"), none; }
+
+.simoji-umbrella-with-rain-drops {
+  background-image: url("../simoji/svg/2614.svg"), none; }
+
+.simoji-unamused {
+  background-image: url("../simoji/svg/1f612.svg"), none; }
+
+.simoji-underage {
+  background-image: url("../simoji/svg/1f51e.svg"), none; }
+
+.simoji-unicorn-face {
+  background-image: url("../simoji/svg/1f984.svg"), none; }
+
+.simoji-unlock {
+  background-image: url("../simoji/svg/1f513.svg"), none; }
+
+.simoji-up {
+  background-image: url("../simoji/svg/1f199.svg"), none; }
+
+.simoji-upside-down-face {
+  background-image: url("../simoji/svg/1f643.svg"), none; }
+
+.simoji-us-flag-us {
+  background-image: url("../simoji/svg/1f1fa-1f1f8.svg"), none; }
+
+.simoji-v {
+  background-image: url("../simoji/svg/270c.svg"), none; }
+
+.simoji-vampire {
+  background-image: url("../simoji/svg/1f9db.svg"), none; }
+
+.simoji-vertical-traffic-light {
+  background-image: url("../simoji/svg/1f6a6.svg"), none; }
+
+.simoji-vhs {
+  background-image: url("../simoji/svg/1f4fc.svg"), none; }
+
+.simoji-vibration-mode {
+  background-image: url("../simoji/svg/1f4f3.svg"), none; }
+
+.simoji-video-camera {
+  background-image: url("../simoji/svg/1f4f9.svg"), none; }
+
+.simoji-video-game {
+  background-image: url("../simoji/svg/1f3ae.svg"), none; }
+
+.simoji-violin {
+  background-image: url("../simoji/svg/1f3bb.svg"), none; }
+
+.simoji-virgo {
+  background-image: url("../simoji/svg/264d.svg"), none; }
+
+.simoji-volcano {
+  background-image: url("../simoji/svg/1f30b.svg"), none; }
+
+.simoji-volleyball {
+  background-image: url("../simoji/svg/1f3d0.svg"), none; }
+
+.simoji-vs {
+  background-image: url("../simoji/svg/1f19a.svg"), none; }
+
+.simoji-walking {
+  background-image: url("../simoji/svg/1f6b6.svg"), none; }
+
+.simoji-waning-crescent-moon {
+  background-image: url("../simoji/svg/1f318.svg"), none; }
+
+.simoji-waning-gibbous-moon {
+  background-image: url("../simoji/svg/1f316.svg"), none; }
+
+.simoji-warning {
+  background-image: url("../simoji/svg/26a0.svg"), none; }
+
+.simoji-wastebasket {
+  background-image: url("../simoji/svg/1f5d1.svg"), none; }
+
+.simoji-watch {
+  background-image: url("../simoji/svg/231a.svg"), none; }
+
+.simoji-water-buffalo {
+  background-image: url("../simoji/svg/1f403.svg"), none; }
+
+.simoji-water-polo {
+  background-image: url("../simoji/svg/1f93d.svg"), none; }
+
+.simoji-watermelon {
+  background-image: url("../simoji/svg/1f349.svg"), none; }
+
+.simoji-wave {
+  background-image: url("../simoji/svg/1f44b.svg"), none; }
+
+.simoji-waving-black-flag {
+  background-image: url("../simoji/svg/1f3f4.svg"), none; }
+
+.simoji-waving-white-flag {
+  background-image: url("../simoji/svg/1f3f3.svg"), none; }
+
+.simoji-wavy-dash {
+  background-image: url("../simoji/svg/3030.svg"), none; }
+
+.simoji-waxing-crescent-moon {
+  background-image: url("../simoji/svg/1f312.svg"), none; }
+
+.simoji-wc {
+  background-image: url("../simoji/svg/1f6be.svg"), none; }
+
+.simoji-weary {
+  background-image: url("../simoji/svg/1f629.svg"), none; }
+
+.simoji-wedding {
+  background-image: url("../simoji/svg/1f492.svg"), none; }
+
+.simoji-weight-lifter {
+  background-image: url("../simoji/svg/1f3cb.svg"), none; }
+
+.simoji-whale {
+  background-image: url("../simoji/svg/1f433.svg"), none; }
+
+.simoji-whale2 {
+  background-image: url("../simoji/svg/1f40b.svg"), none; }
+
+.simoji-wheel-of-dharma {
+  background-image: url("../simoji/svg/2638.svg"), none; }
+
+.simoji-wheelchair {
+  background-image: url("../simoji/svg/267f.svg"), none; }
+
+.simoji-white-check-mark {
+  background-image: url("../simoji/svg/2705.svg"), none; }
+
+.simoji-white-circle {
+  background-image: url("../simoji/svg/26aa.svg"), none; }
+
+.simoji-white-flower {
+  background-image: url("../simoji/svg/1f4ae.svg"), none; }
+
+.simoji-white-frowning-face {
+  background-image: url("../simoji/svg/2639.svg"), none; }
+
+.simoji-white-large-square {
+  background-image: url("../simoji/svg/2b1c.svg"), none; }
+
+.simoji-white-medium-small-square {
+  background-image: url("../simoji/svg/25fd.svg"), none; }
+
+.simoji-white-medium-square {
+  background-image: url("../simoji/svg/25fb.svg"), none; }
+
+.simoji-white-small-square {
+  background-image: url("../simoji/svg/25ab.svg"), none; }
+
+.simoji-white-square-button {
+  background-image: url("../simoji/svg/1f533.svg"), none; }
+
+.simoji-wilted-flower {
+  background-image: url("../simoji/svg/1f940.svg"), none; }
+
+.simoji-wind-blowing-face {
+  background-image: url("../simoji/svg/1f32c.svg"), none; }
+
+.simoji-wind-chime {
+  background-image: url("../simoji/svg/1f390.svg"), none; }
+
+.simoji-wine-glass {
+  background-image: url("../simoji/svg/1f377.svg"), none; }
+
+.simoji-wink {
+  background-image: url("../simoji/svg/1f609.svg"), none; }
+
+.simoji-wolf {
+  background-image: url("../simoji/svg/1f43a.svg"), none; }
+
+.simoji-woman {
+  background-image: url("../simoji/svg/1f469.svg"), none; }
+
+.simoji-woman-biking {
+  background-image: url("../simoji/svg/1f6b4-200d-2640-fe0f.svg"), none; }
+
+.simoji-woman-bouncing-ball {
+  background-image: url("../simoji/svg/26f9-fe0f-200d-2640-fe0f.svg"), none; }
+
+.simoji-woman-bowing {
+  background-image: url("../simoji/svg/1f647-200d-2640-fe0f.svg"), none; }
+
+.simoji-woman-boy {
+  background-image: url("../simoji/svg/1f469-200d-1f466.svg"), none; }
+
+.simoji-woman-boy-boy {
+  background-image: url("../simoji/svg/1f469-200d-1f466-200d-1f466.svg"), none; }
+
+.simoji-woman-cartwheeling {
+  background-image: url("../simoji/svg/1f938-200d-2640-fe0f.svg"), none; }
+
+.simoji-woman-facepalming {
+  background-image: url("../simoji/svg/1f926-200d-2640-fe0f.svg"), none; }
+
+.simoji-woman-frowning {
+  background-image: url("../simoji/svg/1f64d-200d-2640-fe0f.svg"), none; }
+
+.simoji-woman-gesturing-no {
+  background-image: url("../simoji/svg/1f645-200d-2640-fe0f.svg"), none; }
+
+.simoji-woman-gesturing-ok {
+  background-image: url("../simoji/svg/1f646-200d-2640-fe0f.svg"), none; }
+
+.simoji-woman-getting-haircut {
+  background-image: url("../simoji/svg/1f487-200d-2640-fe0f.svg"), none; }
+
+.simoji-woman-getting-massage {
+  background-image: url("../simoji/svg/1f486-200d-2640-fe0f.svg"), none; }
+
+.simoji-woman-girl {
+  background-image: url("../simoji/svg/1f469-200d-1f467.svg"), none; }
+
+.simoji-woman-girl-boy {
+  background-image: url("../simoji/svg/1f469-200d-1f467-200d-1f466.svg"), none; }
+
+.simoji-woman-girl-girl {
+  background-image: url("../simoji/svg/1f469-200d-1f467-200d-1f467.svg"), none; }
+
+.simoji-woman-golfing {
+  background-image: url("../simoji/svg/1f3cc-fe0f-200d-2640-fe0f.svg"), none; }
+
+.simoji-woman-heart-man {
+  background-image: url("../simoji/svg/1f469-200d-2764-fe0f-200d-1f468.svg"), none; }
+
+.simoji-woman-heart-woman {
+  background-image: url("../simoji/svg/1f469-200d-2764-fe0f-200d-1f469.svg"), none; }
+
+.simoji-woman-juggling {
+  background-image: url("../simoji/svg/1f939-200d-2640-fe0f.svg"), none; }
+
+.simoji-woman-kiss-man {
+  background-image: url("../simoji/svg/1f469-200d-2764-fe0f-200d-1f48b-200d-1f468.svg"), none; }
+
+.simoji-woman-kiss-woman {
+  background-image: url("../simoji/svg/1f469-200d-2764-fe0f-200d-1f48b-200d-1f469.svg"), none; }
+
+.simoji-woman-lifting-weights {
+  background-image: url("../simoji/svg/1f3cb-fe0f-200d-2640-fe0f.svg"), none; }
+
+.simoji-woman-mountain-biking {
+  background-image: url("../simoji/svg/1f6b5-200d-2640-fe0f.svg"), none; }
+
+.simoji-woman-playing-handball {
+  background-image: url("../simoji/svg/1f93e-200d-2640-fe0f.svg"), none; }
+
+.simoji-woman-playing-water-polo {
+  background-image: url("../simoji/svg/1f93d-200d-2640-fe0f.svg"), none; }
+
+.simoji-woman-pouting {
+  background-image: url("../simoji/svg/1f64e-200d-2640-fe0f.svg"), none; }
+
+.simoji-woman-raising-hand {
+  background-image: url("../simoji/svg/1f64b-200d-2640-fe0f.svg"), none; }
+
+.simoji-woman-rowing-boat {
+  background-image: url("../simoji/svg/1f6a3-200d-2640-fe0f.svg"), none; }
+
+.simoji-woman-running {
+  background-image: url("../simoji/svg/1f3c3-200d-2640-fe0f.svg"), none; }
+
+.simoji-woman-shrugging {
+  background-image: url("../simoji/svg/1f937-200d-2640-fe0f.svg"), none; }
+
+.simoji-woman-surfing {
+  background-image: url("../simoji/svg/1f3c4-200d-2640-fe0f.svg"), none; }
+
+.simoji-woman-swimming {
+  background-image: url("../simoji/svg/1f3ca-200d-2640-fe0f.svg"), none; }
+
+.simoji-woman-tipping-hand {
+  background-image: url("../simoji/svg/1f481-200d-2640-fe0f.svg"), none; }
+
+.simoji-woman-walking {
+  background-image: url("../simoji/svg/1f6b6-200d-2640-fe0f.svg"), none; }
+
+.simoji-woman-wearing-turban {
+  background-image: url("../simoji/svg/1f473-200d-2640-fe0f.svg"), none; }
+
+.simoji-woman-with-bunny-ears-partying {
+  background-image: url("../simoji/svg/1f46f-200d-2640-fe0f.svg"), none; }
+
+.simoji-woman-woman-boy {
+  background-image: url("../simoji/svg/1f469-200d-1f469-200d-1f466.svg"), none; }
+
+.simoji-woman-woman-boy-boy {
+  background-image: url("../simoji/svg/1f469-200d-1f469-200d-1f466-200d-1f466.svg"), none; }
+
+.simoji-woman-woman-girl {
+  background-image: url("../simoji/svg/1f469-200d-1f469-200d-1f467.svg"), none; }
+
+.simoji-woman-woman-girl-boy {
+  background-image: url("../simoji/svg/1f469-200d-1f469-200d-1f467-200d-1f466.svg"), none; }
+
+.simoji-woman-woman-girl-girl {
+  background-image: url("../simoji/svg/1f469-200d-1f469-200d-1f467-200d-1f467.svg"), none; }
+
+.simoji-woman-wrestling {
+  background-image: url("../simoji/svg/1f93c-200d-2640-fe0f.svg"), none; }
+
+.simoji-woman-climbing {
+  background-image: url("../simoji/svg/1f9d7-200d-2640-fe0f.svg"), none; }
+
+.simoji-woman-in-lotus-position {
+  background-image: url("../simoji/svg/1f9d8-200d-2640-fe0f.svg"), none; }
+
+.simoji-woman-in-steamy-room {
+  background-image: url("../simoji/svg/1f9d6-200d-2640-fe0f.svg"), none; }
+
+.simoji-womans-clothes {
+  background-image: url("../simoji/svg/1f45a.svg"), none; }
+
+.simoji-womans-flat-shoe {
+  background-image: url("../simoji/svg/1f97f.svg"), none; }
+
+.simoji-womans-hat {
+  background-image: url("../simoji/svg/1f452.svg"), none; }
+
+.simoji-womens {
+  background-image: url("../simoji/svg/1f6ba.svg"), none; }
+
+.simoji-woozy-face {
+  background-image: url("../simoji/svg/1f974.svg"), none; }
+
+.simoji-world-map {
+  background-image: url("../simoji/svg/1f5fa.svg"), none; }
+
+.simoji-worried {
+  background-image: url("../simoji/svg/1f61f.svg"), none; }
+
+.simoji-wrench {
+  background-image: url("../simoji/svg/1f527.svg"), none; }
+
+.simoji-wrestlers {
+  background-image: url("../simoji/svg/1f93c.svg"), none; }
+
+.simoji-writing-hand {
+  background-image: url("../simoji/svg/270d.svg"), none; }
+
+.simoji-x {
+  background-image: url("../simoji/svg/274c.svg"), none; }
+
+.simoji-yarn {
+  background-image: url("../simoji/svg/1f9f6.svg"), none; }
+
+.simoji-yellow-heart {
+  background-image: url("../simoji/svg/1f49b.svg"), none; }
+
+.simoji-yen {
+  background-image: url("../simoji/svg/1f4b4.svg"), none; }
+
+.simoji-yin-yang {
+  background-image: url("../simoji/svg/262f.svg"), none; }
+
+.simoji-yum {
+  background-image: url("../simoji/svg/1f60b.svg"), none; }
+
+.simoji-zany-face-grinning-face-with-one-large-and-one-small-eye {
+  background-image: url("../simoji/svg/1f92a.svg"), none; }
+
+.simoji-zap {
+  background-image: url("../simoji/svg/26a1.svg"), none; }
+
+.simoji-zebra-face {
+  background-image: url("../simoji/svg/1f993.svg"), none; }
+
+.simoji-zero {
+  background-image: url("../simoji/svg/30-20e3.svg"), none; }
+
+.simoji-zipper-mouth-face {
+  background-image: url("../simoji/svg/1f910.svg"), none; }
+
+.simoji-zombie {
+  background-image: url("../simoji/svg/1f9df.svg"), none; }
+
+.simoji-zzz {
+  background-image: url("../simoji/svg/1f4a4.svg"), none; }

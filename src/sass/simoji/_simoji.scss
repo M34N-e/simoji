@@ -1,0 +1,34 @@
+@import 'variables';
+
+
+.simoji, .simoji-svg {
+  display: inline-block;
+  height: 1.5em;
+  width: 1.5em;
+  margin: 0 .05em 0 .1em;
+  //vertical-align: middle;
+  vertical-align: -0.1em;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: 1em 1em;
+  //background-size: contain;
+}
+
+
+@each $name, $size in $simoji-size-map {
+  .simoji-#{$name} {
+    height: 1em * $size;
+    width: 1em * $size;
+    margin: 0 .05em * $size 0 .1em * $size;
+    vertical-align: -0.1em * $size;
+    background-size: 1em * $size 1em * $size;
+  }
+}
+
+
+@each $name, $code in $simoji-map {
+  .simoji-#{$name} {
+    background-image: url("#{$simoji-font-path}svg/#{$code}.svg"), none;
+  }
+}
+
