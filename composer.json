@@ -1,0 +1,42 @@
+{
+    "name": "simtabi/simoji",
+    "description": "Emoji's in your CSS",
+    "keywords": [
+        "emoji",
+        "twemoji",
+        "twitter emoji",
+        "simtabi"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Imani Manyara",
+            "email": "hello@imanimanyara.com",
+            "homepage": "https://imanimanyara.com/"
+        }
+    ],
+    "require": {
+
+    },
+    "require-dev": {
+
+    },
+    "autoload": {
+        "psr-4": {
+
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+            ]
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
