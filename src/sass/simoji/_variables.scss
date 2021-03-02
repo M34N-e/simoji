@@ -1,20 +1,52 @@
 
-$simoji-font-path   : "../simoji/" !default;
+$simoji-font-path          : "../simoji" !default;
+$simoji-measurement-unit   : "rem" !default; // em/rem
 
-$simoji-size-map: (
-        "xs"  : 0.3,
-        "sm"  : 0.6,
-        "md"  : 1,
-        "lg"  : 1.33,
-        "2x"  : 2,
-        "3x"  : 3,
-        "4x"  : 4,
-        "5x"  : 5,
-        "6x"  : 6,
-        "7x"  : 7,
-        "8x"  : 8,
-        "9x"  : 9,
-        "10x" : 10,
+/**
+$simoji-size-map           : (
+        8    : .5,
+        xxxs : .75,
+        12   : .75,
+        xxs  : .75,
+        14   : .875,
+        xs   : .875,
+        16   : 1,
+        base : 1,
+        18   : 1.125,
+        20   : 1.25,
+        sm   : 1.25,
+        23   : 1.4375,
+        26   : 1.625,
+        md   : 1.625,
+        29   : 1.8125,
+        32   : 2,
+        lg   : 2,
+        36   : 2.25,
+        41   : 2.5625,
+        xl   : 2.5625,
+        46   : 2.875,
+        52   : 3.25,
+        xxl  : 3.25,
+        60   : 3.25,
+        xxxl : 3.75,
+);
+*/
+
+$simoji-size-map           : (
+        'xxxs' : .375,
+        'xxs'  : .5,
+        'xs'   : .75,
+        'sm'   : .875,
+        'tiny' : .875,
+        'base' : 1,
+        'lg'   : 1.125,
+        'xl'   : 1.25,
+        '2xl'  : 1.5,
+        '3xl'  : 1.875,
+        '4xl'  : 2.25,
+        '5xl'  : 3,
+        '6xl'  : 4,
+        '7xl'  : 5,
 );
 
 $simoji-map: (

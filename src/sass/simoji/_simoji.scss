@@ -28,7 +28,7 @@
 
 @each $name, $code in $simoji-map {
   .simoji-#{$name} {
-    background-image: url("#{$simoji-font-path}svg/#{$code}.svg"), none;
+    background-image: url("#{$simoji-font-path}/svg/#{$code}.svg"), none;
   }
 }
 
